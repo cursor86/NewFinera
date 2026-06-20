@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://newfinera.com/sitemap.xml
