@@ -1,0 +1,28 @@
+{
+  "updated_at": "2026-06-22T22:00:00Z",
+  "updated_date": "22 Jun 2026 22:00 UTC",
+  "_note": "This file is auto-updated daily by GitHub Actions. Do not edit manually.",
+  "crypto": {
+    "BTC": { "price": 107000, "change": 1.2 },
+    "ETH": { "price": 2500,   "change": -0.8 }
+  },
+  "fx": {
+    "AUD_USD": 0.6400,
+    "GBP_USD": 0.7920,
+    "AED_USD": 0.2723,
+    "USD_PKR": 280.50
+  },
+  "indices": {
+    "SP500":   { "price": 6100,  "change": 0.3  },
+    "NASDAQ":  { "price": 20100, "change": 0.5  },
+    "DOW":     { "price": 43200, "change": 0.2  },
+    "ASX200":  { "price": 8300,  "change": 0.4  },
+    "FTSE100": { "price": 8600,  "change": 0.1  },
+    "Gold":    { "price": 3320,  "change": 0.2  },
+    "US10Y":   { "price": 4.35,  "change": 0.02 }
+  },
+  "central_banks": {
+    "Fed": { "rate": "4.25\u20134.50%", "action": "Held" },
+    "RBA": { "rate": "4.10%",           "action": "Held" }
+  }
+}
