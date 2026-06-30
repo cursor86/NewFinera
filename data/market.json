@@ -1,28 +1,60 @@
 {
-  "updated_at": "2026-06-24T22:00:00Z",
-  "updated_date": "24 Jun 2026 22:00 UTC",
-  "_note": "Auto-updated daily by GitHub Actions. Do not edit manually.",
+  "updated_at": "2026-06-30T15:15:48.227738+00:00",
+  "updated_date": "30 Jun 2026 15:15 UTC",
   "crypto": {
-    "BTC": { "price": 107240, "change": 1.44 },
-    "ETH": { "price": 2512,   "change": 0.88 }
+    "BTC": {
+      "price": 58341,
+      "change": -1.53
+    },
+    "ETH": {
+      "price": 1562.0,
+      "change": -0.23
+    }
   },
   "fx": {
-    "AUD_USD": 0.6402,
-    "GBP_USD": 0.7923,
+    "AUD_USD": 0.6888,
+    "GBP_USD": 1.3243,
     "AED_USD": 0.2723,
-    "USD_PKR": 280.50
+    "USD_PKR": 278.01
   },
   "indices": {
-    "SP500":   { "price": 6118,  "change":  0.30 },
-    "NASDAQ":  { "price": 20140, "change":  0.42 },
-    "DOW":     { "price": 43280, "change":  0.18 },
-    "ASX200":  { "price": 8312,  "change":  0.38 },
-    "FTSE100": { "price": 8607,  "change":  0.22 },
-    "Gold":    { "price": 3322,  "change":  0.31 },
-    "US10Y":   { "price": 4.35,  "change":  0.02 }
+    "SP500": {
+      "price": 7475.58,
+      "change": 1.5
+    },
+    "NASDAQ": {
+      "price": 26070.01,
+      "change": 1.89
+    },
+    "DOW": {
+      "price": 52304.69,
+      "change": 1.23
+    },
+    "ASX200": {
+      "price": 8778.7,
+      "change": -0.09
+    },
+    "FTSE100": {
+      "price": 10505.31,
+      "change": 0.73
+    },
+    "Gold": {
+      "price": 4048.0,
+      "change": 0.43
+    },
+    "US10Y": {
+      "price": 4.4,
+      "change": 0.0
+    }
   },
   "central_banks": {
-    "Fed": { "rate": "4.25\u20134.50%", "action": "Held" },
-    "RBA": { "rate": "4.10%",           "action": "Held" }
+    "Fed": {
+      "rate": "4.25\u20134.50%",
+      "action": "Held"
+    },
+    "RBA": {
+      "rate": "4.10%",
+      "action": "Held"
+    }
   }
 }

@@ -1,1 +1,85 @@
-{ "updated_at": "2026-06-24T22:00:00Z", "articles": [] }
+{
+  "updated_at": "2026-06-30T15:15:48.227738+00:00",
+  "articles": [
+    {
+      "title": "Homes harder to sell as high mortgage rates frustrate buyers",
+      "summary": "Three in five homes listed for sale since January remain on the market, says property portal Zoopla.",
+      "link": "https://www.bbc.co.uk/news/articles/cdr4env2v14o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "published": "Tue, 30 Jun 2026 06:22:35 GMT"
+    },
+    {
+      "title": "We had packed lunches every day for 10 years and retired at 40",
+      "summary": "The Fire (Financially Independent, Retire Early) movement sees followers save as much as possible.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgdn3qqg7po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "published": "Mon, 29 Jun 2026 23:03:26 GMT"
+    },
+    {
+      "title": "Chinese tycoon sentenced to 30 years in US jail",
+      "summary": "Guo Wengui branded himself as a China critic, gaining followers who backed his fraudulent schemes.",
+      "link": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "published": "Tue, 30 Jun 2026 02:08:21 GMT"
+    },
+    {
+      "title": "Hollywood director gets two and a half years in prison for defrauding Netflix",
+      "summary": "He was accused of using money for a Netflix show on lavish purchases like Rolls Royces and Ferraris.",
+      "link": "https://www.bbc.co.uk/news/articles/cwy0rrnq317o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "published": "Mon, 29 Jun 2026 20:41:10 GMT"
+    },
+    {
+      "title": "Medicare will start covering obesity drugs for the first time. Here's what patients should know",
+      "summary": "The move could unlock millions of new patients for Novo Nordisk and Eli Lilly and expand access to medications that were previously out of reach for seniors.",
+      "link": "https://www.cnbc.com/2026/06/30/medicare-obesity-drug-glp-1-coverage-starting-july-1.html",
+      "source": "CNBC",
+      "category": "Markets",
+      "published": "Tue, 30 Jun 2026 14:35:38 GMT"
+    },
+    {
+      "title": "Comcast's NBCUniversal spinoff raises hope for more deals. There may not be good options",
+      "summary": "Comcast plans to separate its cable and media divisions over the next year. This could set each company up for M&A, but there might not be any good options.",
+      "link": "https://www.cnbc.com/2026/06/29/comcast-nbcu-spinoff-m-and-a.html",
+      "source": "CNBC",
+      "category": "Markets",
+      "published": "Mon, 29 Jun 2026 20:57:36 GMT"
+    },
+    {
+      "title": "Eli Lilly, Regeneron among first companies selected for FDA initiative to speed review of new manufacturing facilities",
+      "summary": "Eli Lilly and Regeneron are among the first seven companies the FDA has selected for its PreCheck Pilot Program, CNBC has learned.",
+      "link": "https://www.cnbc.com/2026/06/29/eli-lilly-regeneron-in-fda-precheck-manufacturing-program.html",
+      "source": "CNBC",
+      "category": "Markets",
+      "published": "Mon, 29 Jun 2026 21:56:21 GMT"
+    },
+    {
+      "title": "Seniors in Medicare are about to get landmark obesity drug coverage \u2014 but many may not know it yet",
+      "summary": "Many seniors may be unaware of the landmark coverage shift starting on July 1, with limited advertising seen from the government or Eli Lilly and Novo.",
+      "link": "https://www.cnbc.com/2026/06/28/medicare-will-soon-cover-obesity-drugs-but-many-seniors-may-not-know.html",
+      "source": "CNBC",
+      "category": "Markets",
+      "published": "Sun, 28 Jun 2026 12:00:01 GMT"
+    },
+    {
+      "title": "Tech stocks today: Tech stocks recover, as second quarter comes to a close",
+      "summary": "",
+      "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-tech-stocks-recover-as-second-quarter-comes-to-a-close-151053436.html",
+      "source": "Yahoo Finance",
+      "category": "Finance",
+      "published": "2026-06-29T15:10:53Z"
+    },
+    {
+      "title": "Sandisk Stock Gets Sky-High Price Target Amid Chip Stock Rally",
+      "summary": "",
+      "link": "https://www.investors.com/news/technology/sandisk-stock-sky-high-price-target-chip-stock-rally/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "category": "Finance",
+      "published": "2026-06-30T14:53:56Z"
+    }
+  ]
+}
