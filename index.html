@@ -71,8 +71,7 @@ html{scroll-behavior:smooth;}
   --fh:'Bebas Neue',sans-serif;--fd:'Space Grotesk',sans-serif;--fb:'DM Sans',sans-serif;
   --r4:4px;--r8:8px;--r12:12px;--r16:16px;--r20:20px;--r24:24px;--r32:32px;--rp:100px;
 }
-<script src="/js/live-data.js"></script>
-  body{font-family:var(--fb);background:var(--void);color:var(--w);line-height:1.65;-webkit-font-smoothing:antialiased;overflow-x:hidden;}
+body{font-family:var(--fb);background:var(--void);color:var(--w);line-height:1.65;-webkit-font-smoothing:antialiased;overflow-x:hidden;}
 a{color:var(--gold);text-decoration:none;}a:hover{color:var(--gold-b);}
 
 /* SCENE */
@@ -313,6 +312,9 @@ a{color:var(--gold);text-decoration:none;}a:hover{color:var(--gold-b);}
 .fb2 a{color:rgba(255,255,255,.18);}
 .fb2 a:hover{color:var(--w25);}
 
+/* DATA TIMESTAMP */
+#nf-data-updated{font-family:var(--fd);font-size:.63rem;color:var(--w25);display:block;text-align:center;padding:4px 0 2px;}
+
 /* RESPONSIVE */
 @media(max-width:900px){.ng,.ig{grid-template-columns:1fr;}.fti{grid-template-columns:1fr 1fr;gap:26px;}}
 @media(max-width:640px){.nl li:not(:last-child):not(:nth-last-child(2)){display:none;}.cc{padding:22px 16px;}.hero{padding:58px 18px 56px;}.fti{grid-template-columns:1fr;}}
@@ -346,40 +348,41 @@ a{color:var(--gold);text-decoration:none;}a:hover{color:var(--gold-b);}
   <div class="tk-label">📡 LIVE MARKETS</div>
   <div style="overflow:hidden;flex:1;">
     <div class="tk-track" id="ticker">
-      <span class="tki"><span class="up">▲</span> S&P 500 5,648 <span style="opacity:.45;font-size:.65rem;">+0.19%</span></span><span class="tkd"></span>
-      <span class="tki"><span class="up">▲</span> NASDAQ 19,842 <span style="opacity:.45;font-size:.65rem;">+0.33%</span></span><span class="tkd"></span>
-      <span class="tki"><span class="up">▲</span> DOW 42,156 <span style="opacity:.45;font-size:.65rem;">+0.14%</span></span><span class="tkd"></span>
-      <span class="tki"><span class="up">▲</span> AUD/USD 0.6412 <span style="opacity:.45;font-size:.65rem;">+0.32%</span></span><span class="tkd"></span>
-      <span class="tki"><span class="up">▲</span> ASX 200 8,247 <span style="opacity:.45;font-size:.65rem;">+0.54%</span></span><span class="tkd"></span>
-      <span class="tki"><span class="dn">▼</span> GBP/USD 1.2698 <span style="opacity:.45;font-size:.65rem;">-0.11%</span></span><span class="tkd"></span>
-      <span class="tki"><span class="up">▲</span> FTSE 100 8,512 <span style="opacity:.45;font-size:.65rem;">+0.28%</span></span><span class="tkd"></span>
-      <span class="tki"><span class="up">▲</span> BTC/USD 68,420 <span style="opacity:.45;font-size:.65rem;">+1.84%</span></span><span class="tkd"></span>
-      <span class="tki"><span class="dn">▼</span> ETH/USD 3,241 <span style="opacity:.45;font-size:.65rem;">-0.62%</span></span><span class="tkd"></span>
-      <span class="tki"><span class="dn">▼</span> PKR/USD 278.42 <span style="opacity:.45;font-size:.65rem;">-0.08%</span></span><span class="tkd"></span>
-      <span class="tki"><span class="up">▲</span> Gold $2,318/oz <span style="opacity:.45;font-size:.65rem;">+0.41%</span></span><span class="tkd"></span>
-      <span class="tki"><span class="up">▲</span> US 10Y 4.28% <span style="opacity:.45;font-size:.65rem;">+0.03</span></span><span class="tkd"></span>
-      <span class="tki"><span class="up">▲</span> Fed Rate 5.25% <span style="opacity:.45;font-size:.65rem;">Held</span></span><span class="tkd"></span>
-      <span class="tki"><span class="up">▲</span> RBA Rate 4.35% <span style="opacity:.45;font-size:.65rem;">Held</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> S&P 500 6,118 <span style="opacity:.45;font-size:.65rem;">+0.30%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> NASDAQ 20,140 <span style="opacity:.45;font-size:.65rem;">+0.42%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> DOW 43,280 <span style="opacity:.45;font-size:.65rem;">+0.18%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> AUD/USD 0.6402 <span style="opacity:.45;font-size:.65rem;">+0.21%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> ASX 200 8,312 <span style="opacity:.45;font-size:.65rem;">+0.38%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> GBP/USD 0.7923 <span style="opacity:.45;font-size:.65rem;">+0.09%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> FTSE 100 8,607 <span style="opacity:.45;font-size:.65rem;">+0.22%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> BTC/USD 107,240 <span style="opacity:.45;font-size:.65rem;">+1.44%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> ETH/USD 2,512 <span style="opacity:.45;font-size:.65rem;">+0.88%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="dn">▼</span> PKR/USD 280.50 <span style="opacity:.45;font-size:.65rem;">-0.06%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> Gold $3,322/oz <span style="opacity:.45;font-size:.65rem;">+0.31%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> US 10Y 4.35% <span style="opacity:.45;font-size:.65rem;">+0.02</span></span><span class="tkd"></span>
+      <span class="tki"><span class="dn">▼</span> Fed Rate 4.25–4.50% <span style="opacity:.45;font-size:.65rem;">Held</span></span><span class="tkd"></span>
+      <span class="tki"><span class="dn">▼</span> RBA Rate 4.10% <span style="opacity:.45;font-size:.65rem;">Held</span></span><span class="tkd"></span>
       <span class="tki"><span class="dn">▼</span> AED/USD 0.2723 <span style="opacity:.45;font-size:.65rem;">Pegged</span></span><span class="tkd"></span>
-      <!-- duplicate -->
-      <span class="tki"><span class="up">▲</span> S&P 500 5,648 <span style="opacity:.45;font-size:.65rem;">+0.19%</span></span><span class="tkd"></span>
-      <span class="tki"><span class="up">▲</span> NASDAQ 19,842 <span style="opacity:.45;font-size:.65rem;">+0.33%</span></span><span class="tkd"></span>
-      <span class="tki"><span class="up">▲</span> DOW 42,156 <span style="opacity:.45;font-size:.65rem;">+0.14%</span></span><span class="tkd"></span>
-      <span class="tki"><span class="up">▲</span> AUD/USD 0.6412 <span style="opacity:.45;font-size:.65rem;">+0.32%</span></span><span class="tkd"></span>
-      <span class="tki"><span class="up">▲</span> ASX 200 8,247 <span style="opacity:.45;font-size:.65rem;">+0.54%</span></span><span class="tkd"></span>
-      <span class="tki"><span class="dn">▼</span> GBP/USD 1.2698 <span style="opacity:.45;font-size:.65rem;">-0.11%</span></span><span class="tkd"></span>
-      <span class="tki"><span class="up">▲</span> FTSE 100 8,512 <span style="opacity:.45;font-size:.65rem;">+0.28%</span></span><span class="tkd"></span>
-      <span class="tki"><span class="up">▲</span> BTC/USD 68,420 <span style="opacity:.45;font-size:.65rem;">+1.84%</span></span><span class="tkd"></span>
-      <span class="tki"><span class="dn">▼</span> ETH/USD 3,241 <span style="opacity:.45;font-size:.65rem;">-0.62%</span></span><span class="tkd"></span>
-      <span class="tki"><span class="dn">▼</span> PKR/USD 278.42 <span style="opacity:.45;font-size:.65rem;">-0.08%</span></span><span class="tkd"></span>
-      <span class="tki"><span class="up">▲</span> Gold $2,318/oz <span style="opacity:.45;font-size:.65rem;">+0.41%</span></span><span class="tkd"></span>
-      <span class="tki"><span class="up">▲</span> US 10Y 4.28% <span style="opacity:.45;font-size:.65rem;">+0.03</span></span><span class="tkd"></span>
-      <span class="tki"><span class="up">▲</span> Fed Rate 5.25% <span style="opacity:.45;font-size:.65rem;">Held</span></span><span class="tkd"></span>
-      <span class="tki"><span class="up">▲</span> RBA Rate 4.35% <span style="opacity:.45;font-size:.65rem;">Held</span></span><span class="tkd"></span>
+      <!-- duplicate for seamless CSS loop -->
+      <span class="tki"><span class="up">▲</span> S&P 500 6,118 <span style="opacity:.45;font-size:.65rem;">+0.30%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> NASDAQ 20,140 <span style="opacity:.45;font-size:.65rem;">+0.42%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> DOW 43,280 <span style="opacity:.45;font-size:.65rem;">+0.18%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> AUD/USD 0.6402 <span style="opacity:.45;font-size:.65rem;">+0.21%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> ASX 200 8,312 <span style="opacity:.45;font-size:.65rem;">+0.38%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> GBP/USD 0.7923 <span style="opacity:.45;font-size:.65rem;">+0.09%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> FTSE 100 8,607 <span style="opacity:.45;font-size:.65rem;">+0.22%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> BTC/USD 107,240 <span style="opacity:.45;font-size:.65rem;">+1.44%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> ETH/USD 2,512 <span style="opacity:.45;font-size:.65rem;">+0.88%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="dn">▼</span> PKR/USD 280.50 <span style="opacity:.45;font-size:.65rem;">-0.06%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> Gold $3,322/oz <span style="opacity:.45;font-size:.65rem;">+0.31%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> US 10Y 4.35% <span style="opacity:.45;font-size:.65rem;">+0.02</span></span><span class="tkd"></span>
+      <span class="tki"><span class="dn">▼</span> Fed Rate 4.25–4.50% <span style="opacity:.45;font-size:.65rem;">Held</span></span><span class="tkd"></span>
+      <span class="tki"><span class="dn">▼</span> RBA Rate 4.10% <span style="opacity:.45;font-size:.65rem;">Held</span></span><span class="tkd"></span>
       <span class="tki"><span class="dn">▼</span> AED/USD 0.2723 <span style="opacity:.45;font-size:.65rem;">Pegged</span></span><span class="tkd"></span>
     </div>
   </div>
 </div>
+<span id="nf-data-updated"></span>
 
 <!-- NAV -->
 <nav class="nav" id="top">
@@ -465,11 +468,11 @@ a{color:var(--gold);text-decoration:none;}a:hover{color:var(--gold-b);}
   <div class="si">
     <div class="eye">Financial News & Analysis</div>
     <h2>WHAT'S MOVING MARKETS</h2>
-    <div class="ng">
+    <div class="ng" id="news-grid">
       <div class="nf">
         <span class="nbadge nb-hot">🔥 Top Story</span>
-        <h3>Fed Holds Rates at 5.25% — What It Means for Global Investors in 2026</h3>
-        <p>The US Federal Reserve held the federal funds rate at 5.25–5.50% following its June 2026 meeting, citing persistent services inflation despite cooling goods prices. The decision rippled through global markets — the AUD/USD gained briefly before retreating, while the ASX 200 and FTSE both pushed higher on expectations of rate divergence. For investors in Australia, UK, and emerging markets like Pakistan, the Fed's hold changes the calculus on currency exposure, fixed income allocation, and equity valuations heading into the second half of 2026.</p>
+        <h3>RBA Cuts Cash Rate to 4.10% — Impact for Australian Borrowers & Investors in 2026</h3>
+        <p>The Reserve Bank of Australia cut the cash rate to 4.10% in 2026, providing relief to mortgage holders while reshaping the outlook for term deposits and fixed income. The AUD/USD softened on the announcement before stabilising. For Australian investors, the rate environment changes the calculus on property exposure, bond allocations, and high-yield savings. Meanwhile the US Fed held at 4.25–4.50%, creating currency divergence that affects returns on global portfolios.</p>
         <div class="nmeta">NewFinera · June 2026 · General education only, not financial advice</div>
       </div>
       <div class="nstack">
@@ -487,9 +490,9 @@ a{color:var(--gold);text-decoration:none;}a:hover{color:var(--gold-b);}
         </div>
         <div class="nm2">
           <span class="nbadge nb-cr" style="display:inline-block;margin-bottom:9px;">₿ Crypto</span>
-          <h4>Bitcoin ETF Flows Hit Record in Q2 2026 — Education Guide</h4>
+          <h4>Bitcoin Surpasses $100k — Education Guide to BTC ETFs & Tax Implications</h4>
           <p>Understanding Bitcoin spot ETFs, how they work, and the tax implications across AU, UK, and US.</p>
-          <div class="nm2-m">May 2026 · Education only</div>
+          <div class="nm2-m">June 2026 · Education only</div>
         </div>
       </div>
     </div>
@@ -833,7 +836,7 @@ a{color:var(--gold);text-decoration:none;}a:hover{color:var(--gold-b);}
     </ul></div>
   </div>
   <div class="fb2">
-    <span>© 2026 NewFinera (SS Traders Education). General financial education only — not tax, financial, or investment advice.</span>
+    <span>© 2026 NewFinera. General financial education only — not tax, financial, or investment advice.</span>
     <span><a href="/about.html">About</a> · <a href="/privacy.html">Privacy</a> · <a href="/disclaimer.html">Disclaimer</a> · <a href="/contact.html">Contact</a></span>
   </div>
 </footer>
@@ -945,5 +948,8 @@ function dc(){
 document.getElementById('si').addEventListener('keydown',e=>{if(e.key==='Enter')dc();});
 function tf(el){el.parentElement.classList.toggle('open');}
 </script>
+
+<!-- LIVE DATA: replaces ticker & news with data from /data/market.json and /data/news.json -->
+<script src="/js/live-data.js"></script>
 </body>
 </html>
