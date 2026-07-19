@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-07-18T22:55:03.521131+00:00",
-  "updated_date": "18 Jul 2026 22:55 UTC",
+  "updated_at": "2026-07-19T22:56:53.037073+00:00",
+  "updated_date": "19 Jul 2026 22:56 UTC",
   "crypto": {
     "BTC": {
-      "price": 64754,
-      "change": 1.27
+      "price": 64645,
+      "change": -0.2
     },
     "ETH": {
-      "price": 1862.0,
-      "change": 1.28
+      "price": 1869.0,
+      "change": 0.34
     }
   },
   "fx": {
-    "AUD_USD": 0.6982,
-    "GBP_USD": 1.3444,
+    "AUD_USD": 0.6983,
+    "GBP_USD": 1.3445,
     "AED_USD": 0.2723,
-    "USD_PKR": 278.01
+    "USD_PKR": 277.98
   },
   "indices": {
     "SP500": {
@@ -39,8 +39,8 @@
       "change": 0.98
     },
     "Gold": {
-      "price": 4018.8,
-      "change": 0.55
+      "price": 4001.0,
+      "change": -1.48
     },
     "US10Y": {
       "price": 4.54,

@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-07-18T22:55:03.521131+00:00",
+  "updated_at": "2026-07-19T22:56:53.037073+00:00",
   "articles": [
+    {
+      "title": "Thames Water lenders preparing legal challenge in event of Burnham nationalisation",
+      "summary": "The BBC understands creditors would would pursue payment in full of the outstanding debts, in the multi-billions of pounds.",
+      "link": "https://www.bbc.co.uk/news/articles/cx278ed09nzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "published": "Sun, 19 Jul 2026 18:35:16 GMT"
+    },
+    {
+      "title": "New EU border system tripling time at passport control, airport boss says",
+      "summary": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
+      "link": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "published": "Sun, 19 Jul 2026 01:47:59 GMT"
+    },
+    {
+      "title": "Chinese firm seeks compensation over British Steel nationalisation",
+      "summary": "Jingye said it will take action \"through legal means to the very end\" after the UK government nationalised British Steel.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyj4ppqn41o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "published": "Sun, 19 Jul 2026 10:59:07 GMT"
+    },
     {
       "title": "'My buyers dropped their offer by \u00a315,000 the day before exchange': Gazundering and how to avoid it",
       "summary": "It's a small but growing problem in the property market - here's how to protect yourself.",
@@ -10,28 +34,12 @@
       "published": "Sat, 18 Jul 2026 01:14:53 GMT"
     },
     {
-      "title": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
-      "summary": "Economics editor Faisal Islam examines whether the north-west city can be a template for the entire country.",
-      "link": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "published": "Fri, 17 Jul 2026 05:00:08 GMT"
-    },
-    {
-      "title": "Five headaches Andy Burnham will have to deal with as PM",
-      "summary": "From defence spending to housing - the next UK leader has a series of challenges to deal with.",
-      "link": "https://www.bbc.co.uk/news/articles/c62122pgjqdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "published": "Fri, 17 Jul 2026 05:59:36 GMT"
-    },
-    {
-      "title": "Brewdog founder faces data complaints over efforts to buy back firm",
-      "summary": "The UK data watchdog has received complaints after James Watt reportedly contacted former shareholders.",
-      "link": "https://www.bbc.co.uk/news/articles/c4gw9pp0xlno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "published": "Fri, 17 Jul 2026 16:44:15 GMT"
+      "title": "American Airlines CEO lays out his vision to close a more than $3 billion profit gap",
+      "summary": "The carrier is working on improving reliability, investing in more premium seats and lounges, and considering Boeing and Airbus for a new wide-body plane order.",
+      "link": "https://www.cnbc.com/2026/07/19/american-airlines-ceo.html",
+      "source": "CNBC",
+      "category": "Markets",
+      "published": "Sun, 19 Jul 2026 12:00:01 GMT"
     },
     {
       "title": "Inside the Chinese fraud rings stealing billions from banks and retailers",
@@ -58,28 +66,20 @@
       "published": "Fri, 17 Jul 2026 22:16:23 GMT"
     },
     {
-      "title": "Chinese automakers are taking on the UK \u2014 and many Brits are embracing it",
-      "summary": "The surge comes as China's auto exports have boomed in recent years as the country's appetite for new models has cooled.",
-      "link": "https://www.cnbc.com/2026/07/17/chinese-automakers-uk.html",
-      "source": "CNBC",
-      "category": "Markets",
-      "published": "Fri, 17 Jul 2026 15:24:16 GMT"
-    },
-    {
-      "title": "Billionaire Investor Jeremy Grantham Calls Bitcoin a Useless, Speculative Asset. Here's Why He's Wrong.",
+      "title": "Major car dealer cuts 40% of its locations, issues serious warning",
       "summary": "",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/billionaire-investor-jeremy-grantham-calls-222000004.html",
+      "link": "https://finance.yahoo.com/small-business/articles/major-car-dealer-cuts-40-014700349.html",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-07-18T22:20:00Z"
+      "published": "2026-07-19T16:54:17Z"
     },
     {
-      "title": "Dow Jones Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead",
+      "title": "Dow Jones Futures Fall As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
       "summary": "",
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-07-18T19:41:18Z"
+      "published": "2026-07-19T22:35:38Z"
     }
   ]
 }
