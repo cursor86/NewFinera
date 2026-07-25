@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-07-24T23:04:35.104713+00:00",
+  "updated_at": "2026-07-25T22:58:32.162858+00:00",
   "articles": [
+    {
+      "title": "ADHD has rewired the workplace. This is what it means for bosses and workers",
+      "summary": "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?",
+      "link": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "published": "Fri, 24 Jul 2026 23:23:53 GMT"
+    },
+    {
+      "title": "Long overdue, life-changing or frivolous? Your thoughts on wedding rule changes",
+      "summary": "The government wants to relax wedding laws so couples can get married almost anywhere.",
+      "link": "https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "published": "Fri, 24 Jul 2026 23:31:11 GMT"
+    },
     {
       "title": "Trump vows to investigate EU over fining of US tech companies",
       "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
@@ -18,20 +34,12 @@
       "published": "Fri, 24 Jul 2026 14:02:26 GMT"
     },
     {
-      "title": "Watch: Another day, more Trump tariffs - but are they working?",
-      "summary": "The BBC's Samira Hussain explains how President Trump's tariffs affect US economy, who pays the price, and whether they're working.",
-      "link": "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "published": "Fri, 24 Jul 2026 10:21:31 GMT"
-    },
-    {
-      "title": "UK mortgage rates rise to highest level for a month",
-      "summary": "Renewed tensions in the Middle East feed through to the costs faced by lenders, pushing up borrowing costs.",
-      "link": "https://www.bbc.co.uk/news/articles/c70gknr7z1eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "published": "Fri, 24 Jul 2026 09:44:53 GMT"
+      "title": "Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage",
+      "summary": "Shipping and logistics companies are tapping into the growing market of healthcare as cold chain and temperature-controlled facilities become more crucial.",
+      "link": "https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html",
+      "source": "CNBC",
+      "category": "Markets",
+      "published": "Sat, 25 Jul 2026 12:00:02 GMT"
     },
     {
       "title": "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge",
@@ -58,28 +66,20 @@
       "published": "Fri, 24 Jul 2026 19:53:01 GMT"
     },
     {
-      "title": "Boom in tech wealth is fueling record prices for dinosaur bones, art and watches, auction houses say",
-      "summary": "The major auction houses racked up nearly $10 billion in sales in the first half, marking one of the strongest-ever starts to the year.",
-      "link": "https://www.cnbc.com/2026/07/24/wealth-auctions-art-watches.html",
-      "source": "CNBC",
-      "category": "Markets",
-      "published": "Fri, 24 Jul 2026 11:00:01 GMT"
-    },
-    {
-      "title": "World\u2019s quietest metal just dropped a huge bullish signal",
+      "title": "Outdoor giant now closing 91 stores in Chapter 11 bankruptcy",
       "summary": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/world-quietest-metal-just-dropped-221118249.html",
+      "link": "https://finance.yahoo.com/small-business/articles/outdoor-giant-now-closing-91-161700671.html",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-07-23T22:11:18Z"
+      "published": "2026-07-24T16:17:00Z"
     },
     {
-      "title": "Google Stock Falls 7% Amid Questions Over AI Leadership, Gemini 4 Roadmap",
+      "title": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus",
       "summary": "",
-      "link": "https://www.investors.com/news/technology/google-stock-google-earnings-ai-model-leadership-gemini/?src=A00220&yptr=yahoo",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-07-23T15:39:15Z"
+      "published": "2026-07-25T22:02:53Z"
     }
   ]
 }
