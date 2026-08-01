@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-07-31T23:06:08.020239+00:00",
+  "updated_at": "2026-08-01T22:58:19.122946+00:00",
   "articles": [
+    {
+      "title": "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up",
+      "summary": "The actual presentation of FIFA's plan to part-privatise the World Cup raises many more questions than it answers.",
+      "link": "https://www.bbc.co.uk/news/articles/clyvd8363wlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "published": "Sat, 01 Aug 2026 12:41:17 GMT"
+    },
     {
       "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
       "summary": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.",
@@ -26,12 +34,12 @@
       "published": "Fri, 31 Jul 2026 18:10:28 GMT"
     },
     {
-      "title": "Sainsbury's agrees to sell Argos for \u00a3120m",
-      "summary": "Under the terms of the deal, Argos will still operate in Sainsbury's shops, sell Habitat products, and offer Nectar points.",
-      "link": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "published": "Fri, 31 Jul 2026 12:42:22 GMT"
+      "title": "To keep growing, incoming Best Buy CEO says he first wants to go smaller",
+      "summary": "As incoming CEO Jason Bonfig prepares to take the reins, he told CNBC he's focused on expanding the company's reach and enhancing the customer experience.",
+      "link": "https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html",
+      "source": "CNBC",
+      "category": "Markets",
+      "published": "Sat, 01 Aug 2026 12:00:01 GMT"
     },
     {
       "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund \u2014 and lost most of it in days",
@@ -58,28 +66,20 @@
       "published": "Fri, 31 Jul 2026 21:06:36 GMT"
     },
     {
-      "title": "FIFA tests the limits of private equity in sports with World Cup subsidiary sale",
-      "summary": "UEFA and Concacaf's rejection of FIFA's plan to sell a 20% stake in the World Cup's commercial operations highlights uneasiness with private equity in sports.",
-      "link": "https://www.cnbc.com/2026/07/31/fifa-world-cup-private-equity-sports.html",
-      "source": "CNBC",
-      "category": "Markets",
-      "published": "Fri, 31 Jul 2026 20:40:51 GMT"
-    },
-    {
-      "title": "Fed interest-rate decision rocks Wall Street's inflation fears",
+      "title": "Warren Buffett's Berkshire Could Buy Almost Any S&P 500 Company With Its $397 Billion Cash Pile, but Keeps Waiting for a Better Price",
       "summary": "",
-      "link": "https://finance.yahoo.com/economy/policy/articles/fed-interest-rate-decision-rocks-163300252.html",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-could-buy-220500371.html",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-07-30T16:33:00Z"
+      "published": "2026-08-01T22:05:00Z"
     },
     {
-      "title": "Adidas Wins the World Cup and Loses the Market",
+      "title": "Dow Jones Futures: Market Rebounds, Now Watch For This; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
       "summary": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/adidas-wins-world-cup-loses-152830349.html",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&yptr=yahoo",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-07-30T15:28:30Z"
+      "published": "2026-08-01T21:58:20Z"
     }
   ]
 }
