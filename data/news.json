@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T22:58:19.122946+00:00",
+  "updated_at": "2026-08-02T22:59:10.442190+00:00",
   "articles": [
     {
       "title": "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up",
@@ -34,6 +34,14 @@
       "published": "Fri, 31 Jul 2026 18:10:28 GMT"
     },
     {
+      "title": "Why flights are so expensive and will likely stay that way",
+      "summary": "Airlines are paying billions of dollars more in fuel costs this year",
+      "link": "https://www.cnbc.com/2026/08/02/flights-are-getting-even-more-expensive-as-fuel-prices-rise.html",
+      "source": "CNBC",
+      "category": "Markets",
+      "published": "Sun, 02 Aug 2026 12:00:01 GMT"
+    },
+    {
       "title": "To keep growing, incoming Best Buy CEO says he first wants to go smaller",
       "summary": "As incoming CEO Jason Bonfig prepares to take the reins, he told CNBC he's focused on expanding the company's reach and enhancing the customer experience.",
       "link": "https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html",
@@ -58,28 +66,20 @@
       "published": "Fri, 31 Jul 2026 21:49:40 GMT"
     },
     {
-      "title": "\u2018Spider-Man: Brand New Day\u2019 sets domestic box office preview record with $72 million",
-      "summary": "Sony and Marvel's \"Spider-Man: Brave New Day\" is expected to haul in around $270 million domestically over its debut weekend.",
-      "link": "https://www.cnbc.com/2026/07/31/spider-man-brand-new-day-box-office-preview-sales.html",
-      "source": "CNBC",
-      "category": "Markets",
-      "published": "Fri, 31 Jul 2026 21:06:36 GMT"
-    },
-    {
-      "title": "Warren Buffett's Berkshire Could Buy Almost Any S&P 500 Company With Its $397 Billion Cash Pile, but Keeps Waiting for a Better Price",
+      "title": "Warren Buffett keeps pointing at the same ETF for a reason",
       "summary": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-could-buy-220500371.html",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-keeps-pointing-same-160300409.html",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-08-01T22:05:00Z"
+      "published": "2026-08-02T16:03:00Z"
     },
     {
-      "title": "Dow Jones Futures: Market Rebounds, Now Watch For This; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
+      "title": "Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
       "summary": "",
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&yptr=yahoo",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-08-01T21:58:20Z"
+      "published": "2026-08-02T22:17:33Z"
     }
   ]
 }
