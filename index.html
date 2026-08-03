@@ -211,7 +211,7 @@ a{color:var(--gold);text-decoration:none;}a:hover{color:var(--gold-b);}
 /* GUIDES */
 .gg{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:18px;}
 .gc{background:var(--card);border:1px solid var(--brd);border-radius:var(--r24);padding:26px;transition:all .3s;position:relative;overflow:hidden;}
-.gc::after{content:'';position:absolute;inset:0;background:linear-gradient(135deg,var(--gold-dim),transparent);opacity:0;transition:opacity .3s;}
+.gc::after{content:'';position:absolute;inset:0;background:linear-gradient(135deg,var(--gold-dim),transparent);opacity:0;transition:opacity .3s;pointer-events:none;}
 .gc:hover{border-color:rgba(212,168,67,.32);transform:translateY(-4px);box-shadow:0 20px 56px rgba(0,0,0,.45);}
 .gc:hover::after{opacity:1;}
 .gfl{font-size:2.2rem;margin-bottom:16px;display:block;}
