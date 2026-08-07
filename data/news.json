@@ -1,37 +1,61 @@
 {
-  "updated_at": "2026-08-07T01:30:53.006684+00:00",
+  "updated_at": "2026-08-07T22:41:01.663453+00:00",
   "articles": [
     {
+      "title": "How a 90-second power outage sparked chaos for rail commuters",
+      "summary": "The incident raised questions about how a disrupted power supply can have such a widespread impact.",
+      "link": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "published": "Fri, 07 Aug 2026 16:11:32 GMT"
+    },
+    {
+      "title": "Goodwin considers selling part of defence business",
+      "summary": "The firm is a key supplier of components to UK and US frigate and submarine programmes.",
+      "link": "https://www.bbc.co.uk/news/articles/c20dgpl0z4jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "published": "Fri, 07 Aug 2026 15:22:51 GMT"
+    },
+    {
+      "title": "Surprise fall in US jobs last month as slow summer continues",
+      "summary": "Analysts had expected an uptick in the number of jobs created, but the number of roles fell by 23,000 in July.",
+      "link": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "published": "Fri, 07 Aug 2026 14:03:55 GMT"
+    },
+    {
       "title": "Meta fined $567m in largest child safety ruling against social media giant",
-      "summary": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
+      "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
       "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "published": "Fri, 07 Aug 2026 00:54:03 GMT"
+      "published": "Fri, 07 Aug 2026 09:22:03 GMT"
     },
     {
-      "title": "Argos is getting a makeover - but can it attract new shoppers?",
-      "summary": "The retailer has been around for 50 years but struggled to compete with newer rivals such as Amazon. Can its new owners turn it around?",
-      "link": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "published": "Thu, 06 Aug 2026 23:03:48 GMT"
+      "title": "Burger King overtakes Wendy's as the nation's second-largest burger chain",
+      "summary": "Burger King is once again the second-largest burger chain in the U.S. by system-wide sales.",
+      "link": "https://www.cnbc.com/2026/08/07/burger-king-wendys-hamburger-restaurants.html",
+      "source": "CNBC",
+      "category": "Markets",
+      "published": "Fri, 07 Aug 2026 18:19:39 GMT"
     },
     {
-      "title": "Trump imposes 15% tariff on key chip material to counter China",
-      "summary": "The move aims to counter Chinese producers, which hold a monopoly in the global polysilicon production.",
-      "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "published": "Fri, 07 Aug 2026 01:03:35 GMT"
+      "title": "Rockstar Energy founder builds Celsius stake, wants to take over as CEO",
+      "summary": "Rockstar Energy founder Russ Savage told CNBC he now controls 12 million shares of Celsius Holdings, amounting to roughly 4.7% of the energy drink company.",
+      "link": "https://www.cnbc.com/2026/08/07/rockstar-energy-founder-celsius-stake-ceo.html",
+      "source": "CNBC",
+      "category": "Markets",
+      "published": "Fri, 07 Aug 2026 20:23:09 GMT"
     },
     {
-      "title": "EasyJet agrees to \u00a35.7bn takeover by US firm",
-      "summary": "The no-frills carrier agrees to be bought by US firm Apollo after a rival suitor drops out.",
-      "link": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "published": "Thu, 06 Aug 2026 16:35:32 GMT"
+      "title": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
+      "summary": "Some companies plan to shun the cheapest business- and premium- economy fares from their executives.",
+      "link": "https://www.cnbc.com/2026/08/07/business-business-premium-fares.html",
+      "source": "CNBC",
+      "category": "Markets",
+      "published": "Fri, 07 Aug 2026 15:13:11 GMT"
     },
     {
       "title": "Sweetgreen cuts full-year outlook as cyclospora fears weigh on sales",
@@ -42,44 +66,20 @@
       "published": "Thu, 06 Aug 2026 21:24:38 GMT"
     },
     {
-      "title": "American Airlines will stop upgrading elite flyers to business from coach on long domestic flights",
-      "summary": "American Airlines will no longer give elite frequent flyers free upgrades from economy class to business on some of its longest domestic routes",
-      "link": "https://www.cnbc.com/2026/08/06/american-airlines-flight-upgrades-become-harder-to-get.html",
-      "source": "CNBC",
-      "category": "Markets",
-      "published": "Thu, 06 Aug 2026 20:30:05 GMT"
-    },
-    {
-      "title": "Savers Value Village thrift store launches new AI tool to price items",
-      "summary": "Savers Value Village is launching a new AI pricing tool to keep product prices consistent and low, the company told CNBC exclusively.",
-      "link": "https://www.cnbc.com/2026/08/06/savers-value-village-thrift-store-launches-new-ai-tool-to-price-items.html",
-      "source": "CNBC",
-      "category": "Markets",
-      "published": "Thu, 06 Aug 2026 20:06:56 GMT"
-    },
-    {
-      "title": "The divide between Eli Lilly and Novo Nordisk is widening after their latest earnings",
-      "summary": "As Lilly widens its lead in the obesity race, Novo is still racing to win back market share and restore investor confidence in its pipeline.",
-      "link": "https://www.cnbc.com/2026/08/06/eli-lilly-novo-nordisk-earnings-glp1-market.html",
-      "source": "CNBC",
-      "category": "Markets",
-      "published": "Thu, 06 Aug 2026 16:28:05 GMT"
-    },
-    {
-      "title": "Amgen Q2 2026 earnings beat, raises full-year outlook, drops AMG 513",
+      "title": "Veteran manager buys 2 ETFs as market shifts",
       "summary": "",
-      "link": "https://finance.yahoo.com/healthcare/articles/amgen-q2-2026-earnings-beat-132232577.html",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/veteran-manager-buys-2-etfs-020300490.html",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-08-05T13:22:32Z"
+      "published": "2026-08-07T02:03:00Z"
     },
     {
-      "title": "Can Lockheed Martin (LMT) Capitalize on Surging\u00a0Defense\u00a0Demand Despite Rising Risks?",
+      "title": "Are Wall Street Analysts Predicting Baker Hughes Stock Will Climb or Sink?",
       "summary": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-capitalize-surging-132350965.html",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-baker-151906976.html",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-08-05T13:23:50Z"
+      "published": "2026-08-06T15:19:06Z"
     }
   ]
 }
