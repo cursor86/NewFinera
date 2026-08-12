@@ -1,37 +1,53 @@
 {
-  "updated_at": "2026-08-11T22:49:25.523148+00:00",
+  "updated_at": "2026-08-12T22:47:03.348101+00:00",
   "articles": [
     {
-      "title": "'I started in my 20s and made \u00a38,000': Why women are often better investors than men",
-      "summary": "Women can make higher returns but only about a quarter of UK women have investments, compared with about 40% of men.",
-      "link": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&at_campaign=rss",
+      "title": "Trump sued over Truth Social's $100,000 early access service",
+      "summary": "The suit challenges Truth Social plan selling early access to Trump's market-moving posts.",
+      "link": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "published": "Mon, 10 Aug 2026 23:32:10 GMT"
+      "published": "Wed, 12 Aug 2026 17:48:56 GMT"
     },
     {
-      "title": "Tributes to co-founder of John Pye auction house",
-      "summary": "A statement issued by the firm said \"John lived a fantastic life full of laughter and hard work\".",
-      "link": "https://www.bbc.co.uk/news/articles/c8xn7k2ldzxo?at_medium=RSS&at_campaign=rss",
+      "title": "Discord ordered to suspend livestreams in Brazil",
+      "summary": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
+      "link": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "published": "Tue, 11 Aug 2026 20:22:40 GMT"
+      "published": "Wed, 12 Aug 2026 17:10:31 GMT"
     },
     {
-      "title": "AI agent hacks gym to get its user a spot in pilates class",
-      "summary": "The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.",
-      "link": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
+      "title": "Burnham warned Iran war could hit UK growth next year",
+      "summary": "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.",
+      "link": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "published": "Tue, 11 Aug 2026 12:09:26 GMT"
+      "published": "Wed, 12 Aug 2026 14:17:26 GMT"
     },
     {
-      "title": "France bans unsolicited telemarketing calls",
-      "summary": "Cold calling is coming to an end in France, with one consumer group calling the ban a \"small revolution\".",
-      "link": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
+      "title": "US inflation eases as food and fuel costs cool",
+      "summary": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
+      "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "published": "Tue, 11 Aug 2026 14:19:45 GMT"
+      "published": "Wed, 12 Aug 2026 17:03:05 GMT"
+    },
+    {
+      "title": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says",
+      "summary": "Venture capital founder Joshua Kushner and former Disney CEO Bob Iger acquire Mark Walter's stake in Los Angeles Lakers at valuation of more than $12 billion.",
+      "link": "https://www.cnbc.com/2026/08/12/bob-iger-joshua-kushner-buy-los-angeles-lakers-from-mark-walter.html",
+      "source": "CNBC",
+      "category": "Markets",
+      "published": "Wed, 12 Aug 2026 16:59:49 GMT"
+    },
+    {
+      "title": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management",
+      "summary": "Peltz's relationship with Wendy's dates back to an activist campaign he led more than two decades ago.",
+      "link": "https://www.cnbc.com/2026/08/12/wendys-stock-jumps-on-nelson-peltz-takeover-bid-report.html",
+      "source": "CNBC",
+      "category": "Markets",
+      "published": "Wed, 12 Aug 2026 21:13:11 GMT"
     },
     {
       "title": "Why Jensen Huang\u2019s $500 billion AI financing plan faces a big risk from China",
@@ -42,44 +58,28 @@
       "published": "Tue, 11 Aug 2026 21:01:13 GMT"
     },
     {
-      "title": "GM reaches up to $4.5 billion parts deal designed to avoid supply chain troubles",
-      "summary": "The deal follows years of global automotive supply chain issues for GM and other companies.",
-      "link": "https://www.cnbc.com/2026/08/11/gm-makes-4point5-billion-parts-deal-to-bolster-supply-chain.html",
+      "title": "Home Depot CEO taking temporary medical leave, two top execs to run the retailer",
+      "summary": "Home Depot's CEO, Ted Decker, is taking a temporary medical leave of absence that's expected to last a few months.",
+      "link": "https://www.cnbc.com/2026/08/12/home-depot-ceo-ted-decker-medical-leave.html",
       "source": "CNBC",
       "category": "Markets",
-      "published": "Tue, 11 Aug 2026 22:42:10 GMT"
+      "published": "Wed, 12 Aug 2026 16:48:53 GMT"
     },
     {
-      "title": "Trump wants to split the MMR vaccine. Experts say that's unlikely \u2014 and comes with consequences",
-      "summary": "Doctors and other experts say that splitting the measles, mumps and rubella shot has no scientific basis and is unlikely to get off the ground.",
-      "link": "https://www.cnbc.com/2026/08/11/mmr-vaccine-trump-wants-to-split-childhood-shot-up.html",
-      "source": "CNBC",
-      "category": "Markets",
-      "published": "Tue, 11 Aug 2026 16:50:04 GMT"
-    },
-    {
-      "title": "Invitation Homes CEO says ban on institutional homebuying will bring down prices, but not immediately",
-      "summary": "The CEO of the nation's largest single-family rental landlord said the new law banning large-scale investors from the market will lower prices in the long term.",
-      "link": "https://www.cnbc.com/2026/08/11/invitation-homes-ceo-institutional-homebuying-ban-prices.html",
-      "source": "CNBC",
-      "category": "Markets",
-      "published": "Tue, 11 Aug 2026 16:54:38 GMT"
-    },
-    {
-      "title": "Billionaire sues ex-employee over alleged theft",
+      "title": "Bank of America sends blunt message to Nvidia stock investors",
       "summary": "",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/billionaire-sues-ex-employee-over-005000617.html",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-blunt-message-174700491.html",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-08-11T00:50:00Z"
+      "published": "2026-08-12T17:47:00Z"
     },
     {
-      "title": "Dollar Climbs with Crude Prices and T-Note Yields",
+      "title": "Wendy's has a massive problem: It's closing restaurants left and right",
       "summary": "",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-climbs-crude-prices-t-143200859.html",
+      "link": "https://finance.yahoo.com/markets/article/wendys-has-a-massive-problem-its-closing-restaurants-left-and-right-171131528.html",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-08-10T14:32:00Z"
+      "published": "2026-08-10T17:11:31Z"
     }
   ]
 }
