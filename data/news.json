@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T22:27:37.119531+00:00",
+  "updated_at": "2026-08-15T22:26:43.360838+00:00",
   "articles": [
     {
       "title": "Electric vehicle sales targets could be cut after pressure from car makers",
@@ -10,12 +10,12 @@
       "published": "Fri, 14 Aug 2026 15:58:21 GMT"
     },
     {
-      "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+      "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
       "summary": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
       "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "published": "Fri, 14 Aug 2026 19:17:16 GMT"
+      "published": "Sat, 15 Aug 2026 03:58:31 GMT"
     },
     {
       "title": "Selena Gomez sued for alleged fraud over mental health company",
@@ -32,6 +32,14 @@
       "source": "BBC Business",
       "category": "Business",
       "published": "Fri, 14 Aug 2026 07:45:51 GMT"
+    },
+    {
+      "title": "I drove Tesla FSD, Rivian Autonomy+ \u2018hands-free\u2019 driving systems. Here\u2019s how they compare",
+      "summary": "Rivian is trying to catch up to Tesla's \"hands-free\" capabilities, but with additional safety guardrails that the Elon Musk company doesn't have.",
+      "link": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
+      "source": "CNBC",
+      "category": "Markets",
+      "published": "Sat, 15 Aug 2026 12:00:01 GMT"
     },
     {
       "title": "Group including Jeff Bezos buys minority stake in Liverpool FC, with option to become controlling owner",
@@ -58,28 +66,20 @@
       "published": "Fri, 14 Aug 2026 18:00:01 GMT"
     },
     {
-      "title": "Housing investors say this is their worst market in at least 3 years",
-      "summary": "Mortgage rates hit a recent low at the end of February but rose sharply at the start of the war with Iran. They are now at their highest level in over a year.",
-      "link": "https://www.cnbc.com/2026/08/14/housing-investors-say-this-is-their-worst-market-in-at-least-3-years.html",
-      "source": "CNBC",
-      "category": "Markets",
-      "published": "Fri, 14 Aug 2026 15:02:26 GMT"
-    },
-    {
-      "title": "Resort destination mall and hotel seek Chapter 11 bankruptcy",
+      "title": "SanDisk CEO reveals what's next after explosive 3,150% stock rally",
       "summary": "",
-      "link": "https://finance.yahoo.com/real-estate/articles/68-old-resort-hotel-mall-015339982.html",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-ceo-reveals-whats-next-013700105.html",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-08-14T01:53:39Z"
+      "published": "2026-08-15T01:37:00Z"
     },
     {
-      "title": "Beyond SpaceX: 4 IPO Stocks Quietly Crushing The Market",
+      "title": "Host Hotels (HST) Just Raised Its Outlook. Can Luxury Travel Keep Delivering?",
       "summary": "",
-      "link": "https://www.investors.com/news/spacex-ipo-bending-spoons-dpc-sinda-lime-neutron-holdings-stock-market/?src=A00220&yptr=yahoo",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/host-hotels-hst-just-raised-215502105.html",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-08-13T15:05:04Z"
+      "published": "2026-08-15T21:55:02Z"
     }
   ]
 }
