@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-08-15T22:26:43.360838+00:00",
+  "updated_at": "2026-08-16T22:25:32.821656+00:00",
   "articles": [
     {
-      "title": "Electric vehicle sales targets could be cut after pressure from car makers",
-      "summary": "The government says it is considering cutting the new electric car sales target from 80% to 50% by 2030.",
-      "link": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
+      "title": "Changing pubs into homes to be made harder under new rules",
+      "summary": "The rules will come into force on Monday along with other changes to planning policy.",
+      "link": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "published": "Fri, 14 Aug 2026 15:58:21 GMT"
+      "published": "Sun, 16 Aug 2026 15:04:13 GMT"
+    },
+    {
+      "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
+      "summary": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
+      "link": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "published": "Sat, 15 Aug 2026 23:45:44 GMT"
     },
     {
       "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
@@ -24,14 +32,6 @@
       "source": "BBC Business",
       "category": "Business",
       "published": "Fri, 14 Aug 2026 11:32:05 GMT"
-    },
-    {
-      "title": "I got an \u00a389 refund \u2013 how to cancel and  avoid unwanted subscriptions",
-      "summary": "After the PM announced a crackdown on subscription traps, readers share how they got into and out of unwanted plans.",
-      "link": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "published": "Fri, 14 Aug 2026 07:45:51 GMT"
     },
     {
       "title": "I drove Tesla FSD, Rivian Autonomy+ \u2018hands-free\u2019 driving systems. Here\u2019s how they compare",
@@ -63,23 +63,23 @@
       "link": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
       "source": "CNBC",
       "category": "Markets",
-      "published": "Fri, 14 Aug 2026 18:00:01 GMT"
+      "published": "Sun, 16 Aug 2026 17:08:04 GMT"
     },
     {
-      "title": "SanDisk CEO reveals what's next after explosive 3,150% stock rally",
+      "title": "Billionaire Bill Ackman doubles down on these stocks in Q2",
       "summary": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-ceo-reveals-whats-next-013700105.html",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-doubles-down-020300181.html",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-08-15T01:37:00Z"
+      "published": "2026-08-16T02:03:00Z"
     },
     {
-      "title": "Host Hotels (HST) Just Raised Its Outlook. Can Luxury Travel Keep Delivering?",
+      "title": "Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Sandisk Needs This; Walmart Looms",
       "summary": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/host-hotels-hst-just-raised-215502105.html",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-run-sandisk-soars-nvidia-buy-walmart-target/?src=A00220&yptr=yahoo",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-08-15T21:55:02Z"
+      "published": "2026-08-16T22:04:06Z"
     }
   ]
 }
