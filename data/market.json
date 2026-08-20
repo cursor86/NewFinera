@@ -1,50 +1,50 @@
 {
-  "updated_at": "2026-08-19T22:28:37.546623+00:00",
-  "updated_date": "19 Aug 2026 22:28 UTC",
+  "updated_at": "2026-08-20T22:31:33.668870+00:00",
+  "updated_date": "20 Aug 2026 22:31 UTC",
   "crypto": {
     "BTC": {
-      "price": 69198,
-      "change": 7.21
+      "price": 72760,
+      "change": 5.26
     },
     "ETH": {
-      "price": 2260.0,
-      "change": 18.13
+      "price": 2314.0,
+      "change": 2.58
     }
   },
   "fx": {
-    "AUD_USD": 0.7093,
-    "GBP_USD": 1.3535,
+    "AUD_USD": 0.7106,
+    "GBP_USD": 1.3589,
     "AED_USD": 0.2723,
-    "USD_PKR": 277.75
+    "USD_PKR": 277.7
   },
   "indices": {
     "SP500": {
-      "price": 7707.98,
-      "change": -0.52
+      "price": 7641.16,
+      "change": -2.02
     },
     "NASDAQ": {
-      "price": 26331.09,
-      "change": -0.97
+      "price": 26067.17,
+      "change": -2.75
     },
     "DOW": {
-      "price": 53463.05,
-      "change": -0.57
+      "price": 52759.21,
+      "change": -2.01
     },
     "ASX200": {
-      "price": 9053.8,
-      "change": -1.69
+      "price": 9083.8,
+      "change": -1.14
     },
     "FTSE100": {
-      "price": 10743.35,
-      "change": -0.83
+      "price": 10748.16,
+      "change": -0.23
     },
     "Gold": {
-      "price": 4576.5,
-      "change": 4.48
+      "price": 4575.0,
+      "change": 3.56
     },
     "US10Y": {
-      "price": 4.65,
-      "change": 0.26
+      "price": 4.7,
+      "change": 0.0
     }
   },
   "central_banks": {
