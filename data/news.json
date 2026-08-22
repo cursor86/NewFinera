@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T22:29:03.113834+00:00",
+  "updated_at": "2026-08-22T22:26:12.738453+00:00",
   "articles": [
     {
       "title": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
@@ -10,12 +10,12 @@
       "published": "Fri, 21 Aug 2026 11:20:57 GMT"
     },
     {
-      "title": "Canada 'should fight' as US trade deadline looms, Manitoba premier says",
-      "summary": "Premier Wab Kinew's comments signal a tough battle for Prime Minister Mark Carney to get buy-in from Canadians on a possible trade deal with the US.",
+      "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
+      "summary": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
       "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "published": "Fri, 21 Aug 2026 21:27:14 GMT"
+      "published": "Sat, 22 Aug 2026 00:40:47 GMT"
     },
     {
       "title": "US borrowing costs rise as attempts to ease rates prove short-lived",
@@ -32,6 +32,14 @@
       "source": "BBC Business",
       "category": "Business",
       "published": "Fri, 21 Aug 2026 10:02:03 GMT"
+    },
+    {
+      "title": "Inside Coca-Cola\u2019s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers",
+      "summary": "From McDonald's to Wendy's, longtime Coke customers have been expanding their beverage offerings to boost their profit margins.",
+      "link": "https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html",
+      "source": "CNBC",
+      "category": "Markets",
+      "published": "Sat, 22 Aug 2026 12:00:01 GMT"
     },
     {
       "title": "Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency",
@@ -58,28 +66,20 @@
       "published": "Fri, 21 Aug 2026 18:31:41 GMT"
     },
     {
-      "title": "New York unseats San Francisco as the top market for tech talent, CBRE reports",
-      "summary": "AI-related roles now account for nearly one-third of all tech-talent job listings in the U.S., per the new CBRE report.",
-      "link": "https://www.cnbc.com/2026/08/21/new-york-san-francisco-tech-talent-cbre.html",
-      "source": "CNBC",
-      "category": "Markets",
-      "published": "Fri, 21 Aug 2026 10:36:07 GMT"
-    },
-    {
-      "title": "AT&T stands to gain as Verizon loses a customer related battle",
+      "title": "Hyundai considers Georgia Metaplant expansion to 800,000 units",
       "summary": "",
-      "link": "https://finance.yahoo.com/technology/articles/t-stands-gain-verizon-loses-230000780.html",
+      "link": "https://finance.yahoo.com/economy/policy/articles/hyundai-considers-georgia-metaplant-expansion-112106415.html",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-08-20T23:00:00Z"
+      "published": "2026-08-21T11:21:06Z"
     },
     {
-      "title": "Meta Stock Sinks 32%, but Analysts See a 38% Rebound",
+      "title": "The Gas Turbine Shortage Just Became AI\u2019s Biggest Constraint",
       "summary": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-sinks-32-analysts-150427583.html",
+      "link": "https://finance.yahoo.com/energy/articles/gas-turbine-shortage-just-became-210000180.html",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-08-20T15:04:27Z"
+      "published": "2026-08-22T21:00:00Z"
     }
   ]
 }
