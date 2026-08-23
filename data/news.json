@@ -1,37 +1,61 @@
 {
-  "updated_at": "2026-08-22T22:26:12.738453+00:00",
+  "updated_at": "2026-08-23T22:26:26.133410+00:00",
   "articles": [
     {
-      "title": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
-      "summary": "The struggling firm said it had improved its performance but missed regulator-set delivery targets.",
-      "link": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&at_campaign=rss",
+      "title": "Struggling households need more help with bills, energy industry says",
+      "summary": "Industry body Energy UK says the current support for households most in need does not go far enough.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "published": "Fri, 21 Aug 2026 11:20:57 GMT"
+      "published": "Sun, 23 Aug 2026 10:11:21 GMT"
     },
     {
-      "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
-      "summary": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
-      "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+      "title": "CrossCountry cancels 'almost all' UK services after power cut",
+      "summary": "Customers say the disruption to virtually all UK CrossCountry services is the \"worst case scenario\".",
+      "link": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "published": "Sat, 22 Aug 2026 00:40:47 GMT"
+      "published": "Sun, 23 Aug 2026 14:05:16 GMT"
     },
     {
-      "title": "US borrowing costs rise as attempts to ease rates prove short-lived",
-      "summary": "Economists said there were ongoing concerns over the level of borrowing as national debt passed $40tn.",
-      "link": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "published": "Fri, 21 Aug 2026 16:45:09 GMT"
+      "published": "Sun, 23 Aug 2026 19:11:30 GMT"
     },
     {
-      "title": "Millennials have found it hard to buy homes \u2013 but things may be turning a corner",
-      "summary": "Twenty-somethings are much less likely to own a home than previous generations. But data suggests things may be improving.",
-      "link": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
+      "title": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
+      "summary": "The government says at no point was there a risk to the UK's energy system during the attack in July.",
+      "link": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "published": "Fri, 21 Aug 2026 10:02:03 GMT"
+      "published": "Sun, 23 Aug 2026 02:48:41 GMT"
+    },
+    {
+      "title": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
+      "summary": "United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier.",
+      "link": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
+      "source": "CNBC",
+      "category": "Markets",
+      "published": "Sun, 23 Aug 2026 12:00:01 GMT"
+    },
+    {
+      "title": "United's next decision: What to do with all those Boeing 737 Max 10 seats it ordered years ago",
+      "summary": "United Airlines wanted to put lie-flat premium seats on its Max 10 planes once they were certified, but that has been delayed by years.",
+      "link": "https://www.cnbc.com/2026/08/23/united-airlines-boeing-737-max-10-seats.html",
+      "source": "CNBC",
+      "category": "Markets",
+      "published": "Sun, 23 Aug 2026 12:00:01 GMT"
+    },
+    {
+      "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
+      "summary": "Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets.",
+      "link": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
+      "source": "CNBC",
+      "category": "Markets",
+      "published": "Sun, 23 Aug 2026 12:00:01 GMT"
     },
     {
       "title": "Inside Coca-Cola\u2019s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers",
@@ -42,44 +66,20 @@
       "published": "Sat, 22 Aug 2026 12:00:01 GMT"
     },
     {
-      "title": "Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency",
-      "summary": "Matt Zames is taking an unpaid position to help his former JPMorgan colleague Frank Bisignano tackle modernization of the SSA, CNBC has learned.",
-      "link": "https://www.cnbc.com/2026/08/21/jpmorgan-matt-zames-social-security-administration.html",
-      "source": "CNBC",
-      "category": "Markets",
-      "published": "Fri, 21 Aug 2026 15:10:31 GMT"
-    },
-    {
-      "title": "Most Americans aren't anti-vaccine. They're uncertain \u2014 and that's a growing public health challenge",
-      "summary": "The bigger issue at hand may be that many Americans fall into a large, uncertain middle ground \u2013 neither firmly pro-vaccine nor staunchly opposed.",
-      "link": "https://www.cnbc.com/2026/08/21/why-vaccination-rates-are-falling-in-the-us.html",
-      "source": "CNBC",
-      "category": "Markets",
-      "published": "Fri, 21 Aug 2026 19:14:56 GMT"
-    },
-    {
-      "title": "Why some of America's biggest brands are losing ground in China",
-      "summary": "Nike, Starbucks and GM have lost ground in China as domestic rivals, geopolitics and changing consumer preferences reshape the market.",
-      "link": "https://www.cnbc.com/2026/08/21/us-brands-china-competition.html",
-      "source": "CNBC",
-      "category": "Markets",
-      "published": "Fri, 21 Aug 2026 18:31:41 GMT"
-    },
-    {
-      "title": "Hyundai considers Georgia Metaplant expansion to 800,000 units",
+      "title": "Iconic fast-food fried chicken chain closes over 300 restaurants",
       "summary": "",
-      "link": "https://finance.yahoo.com/economy/policy/articles/hyundai-considers-georgia-metaplant-expansion-112106415.html",
+      "link": "https://finance.yahoo.com/small-business/articles/iconic-fast-food-fried-chicken-184700958.html",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-08-21T11:21:06Z"
+      "published": "2026-08-22T18:47:00Z"
     },
     {
-      "title": "The Gas Turbine Shortage Just Became AI\u2019s Biggest Constraint",
+      "title": "Dow Jones Futures Fall With Market At Key Point; Nvidia, Tariffs, Warsh In Focus",
       "summary": "",
-      "link": "https://finance.yahoo.com/energy/articles/gas-turbine-shortage-just-became-210000180.html",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-08-22T21:00:00Z"
+      "published": "2026-08-23T22:11:38Z"
     }
   ]
 }
