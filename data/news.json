@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T03:34:55.303715+00:00",
+  "updated_at": "2026-08-29T23:58:02.853030+00:00",
   "articles": [
     {
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
@@ -7,7 +7,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "published": "Sat, 29 Aug 2026 02:42:27 GMT"
+      "published": "Sat, 29 Aug 2026 22:40:51 GMT"
     },
     {
       "title": "Wife of man who died after turbulence sues airline",
@@ -34,6 +34,14 @@
       "published": "Thu, 27 Aug 2026 23:04:21 GMT"
     },
     {
+      "title": "Goodyear burning rubber and cash as turnaround plan continues",
+      "summary": "The tire maker has an ongoing turnaround plan as the company tries to restructure its business, refinance and pay down years of debt.",
+      "link": "https://www.cnbc.com/2026/08/29/goodyear-turnaround-cash-debt.html",
+      "source": "CNBC",
+      "category": "Markets",
+      "published": "Sat, 29 Aug 2026 13:56:58 GMT"
+    },
+    {
       "title": "Imax says it's open to a sale. Why is no one buying?",
       "summary": "Imax's stock and box office are breaking records, but studio conflicts and a soaring valuation complicate the list of who could bid for the company.",
       "link": "https://www.cnbc.com/2026/08/28/imax-sale-potential-buyers.html",
@@ -58,28 +66,20 @@
       "published": "Fri, 28 Aug 2026 14:26:53 GMT"
     },
     {
-      "title": "Gap shares jump 12% after company names new Old Navy CEO to revive struggling brand",
-      "summary": "Gap announced a new CEO for Old Navy on Thursday as the brand reported a decline in comparable sales for the most recent quarter.",
-      "link": "https://www.cnbc.com/2026/08/27/gap-q2-2026-earnings.html",
-      "source": "CNBC",
-      "category": "Markets",
-      "published": "Thu, 27 Aug 2026 21:54:18 GMT"
-    },
-    {
-      "title": "Bank of America doubles down on Nvidia stock",
+      "title": "Dunkin' comes back to major market after 12-year absence",
       "summary": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-doubles-down-nvidia-153054071.html",
+      "link": "https://finance.yahoo.com/small-business/articles/dunkin-comes-back-major-market-161700314.html",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-08-27T15:30:54Z"
+      "published": "2026-08-28T16:17:00Z"
     },
     {
-      "title": "Best credit cards with no annual fee for August 2026",
+      "title": "Solar Has Crossed a Critical Economic Tipping Point",
       "summary": "",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-with-no-annual-fee-204747522.html",
+      "link": "https://finance.yahoo.com/energy/articles/solar-crossed-critical-economic-tipping-210000010.html",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2024-11-25T20:47:47Z"
+      "published": "2026-08-29T21:00:00Z"
     }
   ]
 }
