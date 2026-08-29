@@ -1,37 +1,53 @@
 {
-  "updated_at": "2026-08-28T06:01:17.565302+00:00",
+  "updated_at": "2026-08-29T03:34:55.303715+00:00",
   "articles": [
     {
-      "title": "Military veterans told they owe thousands of pounds over clerical error",
-      "summary": "Hundreds of former UK service personnel have had their pensions cut after being overpaid.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y4512mlxdo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "published": "Thu, 27 Aug 2026 23:06:22 GMT"
+      "published": "Sat, 29 Aug 2026 02:42:27 GMT"
     },
     {
-      "title": "Trump administration illegally retaliated against Anthropic, judge rules",
-      "summary": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
+      "title": "Wife of man who died after turbulence sues airline",
+      "summary": "Lawyers for Linda Kitchen say her husband was \"fatally injured\" after the flight dropped 6,000 ft.",
+      "link": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "published": "Fri, 28 Aug 2026 03:41:59 GMT"
+      "published": "Fri, 28 Aug 2026 17:47:00 GMT"
     },
     {
-      "title": "'Cowboy builders' targeted in new government clampdown",
-      "summary": "A database of trusted tradespeople and a system to protect customers' money is being launched by the government next month.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z44982e4o?at_medium=RSS&at_campaign=rss",
+      "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
+      "summary": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.",
+      "link": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "published": "Thu, 27 Aug 2026 21:44:02 GMT"
+      "published": "Fri, 28 Aug 2026 15:15:26 GMT"
     },
     {
-      "title": "Selena Gomez pushes back against 'frivolous' fraud claims",
-      "summary": "Selena Gomez's lawyer says the fraud case is \"absurd\" - but it is far from unusual for celebrity family business relationships to go wrong.",
-      "link": "https://www.bbc.co.uk/news/articles/cz0z4k28804o?at_medium=RSS&at_campaign=rss",
+      "title": "I was spending \u00a3700 a month: How I beat my late-night shopping addiction",
+      "summary": "Younger generations are thought to be more susceptible to impulse spending. The BBC looks at ways to get it under control.",
+      "link": "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "published": "Fri, 28 Aug 2026 05:53:05 GMT"
+      "published": "Thu, 27 Aug 2026 23:04:21 GMT"
+    },
+    {
+      "title": "Imax says it's open to a sale. Why is no one buying?",
+      "summary": "Imax's stock and box office are breaking records, but studio conflicts and a soaring valuation complicate the list of who could bid for the company.",
+      "link": "https://www.cnbc.com/2026/08/28/imax-sale-potential-buyers.html",
+      "source": "CNBC",
+      "category": "Markets",
+      "published": "Fri, 28 Aug 2026 11:54:53 GMT"
+    },
+    {
+      "title": "How Taylor Farms became integral to America's food supply system",
+      "summary": "Taylor Farms and other suppliers have become larger and more integral to the U.S. food system, complicating foodborne illnesses such as cyclosporiasis.",
+      "link": "https://www.cnbc.com/2026/08/28/how-taylor-farms-became-integral-to-americas-food-supply-system.html",
+      "source": "CNBC",
+      "category": "Markets",
+      "published": "Fri, 28 Aug 2026 13:17:52 GMT"
     },
     {
       "title": "FDA approves daily HIV pill from Gilead designed to simplify treatment for some patients",
@@ -39,7 +55,7 @@
       "link": "https://www.cnbc.com/2026/08/27/fda-approves-gilead-hiv-pill-bixlenvo-designed-to-simplify-treatment.html",
       "source": "CNBC",
       "category": "Markets",
-      "published": "Thu, 27 Aug 2026 21:49:18 GMT"
+      "published": "Fri, 28 Aug 2026 14:26:53 GMT"
     },
     {
       "title": "Gap shares jump 12% after company names new Old Navy CEO to revive struggling brand",
@@ -50,22 +66,6 @@
       "published": "Thu, 27 Aug 2026 21:54:18 GMT"
     },
     {
-      "title": "Family offices are making a bullish bet on the stock market, according to CNBC Family Office Portfolio Tracker",
-      "summary": "The data includes the portfolios of hundreds of family offices, representing a total of $1.4 trillion in assets.",
-      "link": "https://www.cnbc.com/2026/08/27/family-offices-making-bullish-bet-on-stocks-according-to-cnbc-tracker.html",
-      "source": "CNBC",
-      "category": "Markets",
-      "published": "Thu, 27 Aug 2026 19:05:28 GMT"
-    },
-    {
-      "title": "American Airlines adds batch of new international routes on its XLR planes",
-      "summary": "American is adding seven routes to its 2027 schedule, with the majority heading to smaller European cities from its Philadelphia hub or from New York City.",
-      "link": "https://www.cnbc.com/2026/08/27/american-airlines-routes-xlr.html",
-      "source": "CNBC",
-      "category": "Markets",
-      "published": "Thu, 27 Aug 2026 12:00:01 GMT"
-    },
-    {
       "title": "Bank of America doubles down on Nvidia stock",
       "summary": "",
       "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-doubles-down-nvidia-153054071.html",
@@ -74,12 +74,12 @@
       "published": "2026-08-27T15:30:54Z"
     },
     {
-      "title": "Will the housing market crash in 2026? What the economy says",
+      "title": "Best credit cards with no annual fee for August 2026",
       "summary": "",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/will-the-housing-market-crash-in-2026-what-the-economy-says-170038540.html",
+      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-with-no-annual-fee-204747522.html",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2024-07-05T17:00:38Z"
+      "published": "2024-11-25T20:47:47Z"
     }
   ]
 }
