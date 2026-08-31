@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-29T23:58:02.853030+00:00",
+  "updated_at": "2026-08-31T00:18:32.660197+00:00",
   "articles": [
     {
-      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "title": "'My parents won't lend me \u00a310k but helped my brother': When families play financial favourites",
+      "summary": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
+      "link": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "published": "Sun, 30 Aug 2026 23:22:24 GMT"
+    },
+    {
+      "title": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
       "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
       "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "published": "Sat, 29 Aug 2026 22:40:51 GMT"
-    },
-    {
-      "title": "Wife of man who died after turbulence sues airline",
-      "summary": "Lawyers for Linda Kitchen say her husband was \"fatally injured\" after the flight dropped 6,000 ft.",
-      "link": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "published": "Fri, 28 Aug 2026 17:47:00 GMT"
+      "published": "Sun, 30 Aug 2026 04:01:02 GMT"
     },
     {
       "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
@@ -26,12 +26,20 @@
       "published": "Fri, 28 Aug 2026 15:15:26 GMT"
     },
     {
-      "title": "I was spending \u00a3700 a month: How I beat my late-night shopping addiction",
-      "summary": "Younger generations are thought to be more susceptible to impulse spending. The BBC looks at ways to get it under control.",
-      "link": "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o?at_medium=RSS&at_campaign=rss",
+      "title": "Wife of man who died after turbulence sues airline",
+      "summary": "Lawyers for Linda Kitchen say her husband was \"fatally injured\" after the flight dropped 6,000 ft.",
+      "link": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "published": "Thu, 27 Aug 2026 23:04:21 GMT"
+      "published": "Fri, 28 Aug 2026 17:47:00 GMT"
+    },
+    {
+      "title": "The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently",
+      "summary": "Retailers have diverged on how they've reported tariff refunds in their earnings this quarter, with some choosing to lower prices and others boosting margins.",
+      "link": "https://www.cnbc.com/2026/08/30/trump-tariff-refunds-walmart-home-depot-target.html",
+      "source": "CNBC",
+      "category": "Markets",
+      "published": "Sun, 30 Aug 2026 12:00:02 GMT"
     },
     {
       "title": "Goodyear burning rubber and cash as turnaround plan continues",
@@ -58,28 +66,20 @@
       "published": "Fri, 28 Aug 2026 13:17:52 GMT"
     },
     {
-      "title": "FDA approves daily HIV pill from Gilead designed to simplify treatment for some patients",
-      "summary": "The new pill is also aimed at people who are doing well on a single-tablet regimen, including Biktarvy, and want to switch to a new treatment.",
-      "link": "https://www.cnbc.com/2026/08/27/fda-approves-gilead-hiv-pill-bixlenvo-designed-to-simplify-treatment.html",
-      "source": "CNBC",
-      "category": "Markets",
-      "published": "Fri, 28 Aug 2026 14:26:53 GMT"
-    },
-    {
-      "title": "Dunkin' comes back to major market after 12-year absence",
+      "title": "Major fruit grower lays off nearly 1,000 workers",
       "summary": "",
-      "link": "https://finance.yahoo.com/small-business/articles/dunkin-comes-back-major-market-161700314.html",
+      "link": "https://finance.yahoo.com/small-business/articles/major-fruit-grower-lays-off-010300694.html",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-08-28T16:17:00Z"
+      "published": "2026-08-30T01:03:00Z"
     },
     {
-      "title": "Solar Has Crossed a Critical Economic Tipping Point",
+      "title": "Dear Apple Stock Fans, Mark Your Calendars for September 9",
       "summary": "",
-      "link": "https://finance.yahoo.com/energy/articles/solar-crossed-critical-economic-tipping-210000010.html",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dear-apple-stock-fans-mark-133002349.html",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-08-29T21:00:00Z"
+      "published": "2026-08-29T13:30:02Z"
     }
   ]
 }
