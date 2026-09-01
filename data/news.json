@@ -1,37 +1,61 @@
 {
-  "updated_at": "2026-08-31T00:18:32.660197+00:00",
+  "updated_at": "2026-09-01T01:07:19.550750+00:00",
   "articles": [
     {
-      "title": "'My parents won't lend me \u00a310k but helped my brother': When families play financial favourites",
-      "summary": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
-      "link": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
+      "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
+      "summary": "The governor of the Bank of England warned of AI's \u201cvolatility\u201d caused by energy shocks from the US-Iran war.",
+      "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "published": "Sun, 30 Aug 2026 23:22:24 GMT"
+      "published": "Mon, 31 Aug 2026 16:49:11 GMT"
     },
     {
-      "title": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
-      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "title": "How Shein lost its shine ahead of long-awaited stock market debut",
+      "summary": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
+      "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "published": "Sun, 30 Aug 2026 04:01:02 GMT"
+      "published": "Tue, 01 Sep 2026 00:56:59 GMT"
     },
     {
-      "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
-      "summary": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.",
-      "link": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
+      "title": "Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges",
+      "summary": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "published": "Fri, 28 Aug 2026 15:15:26 GMT"
+      "published": "Mon, 31 Aug 2026 21:28:49 GMT"
     },
     {
-      "title": "Wife of man who died after turbulence sues airline",
-      "summary": "Lawyers for Linda Kitchen say her husband was \"fatally injured\" after the flight dropped 6,000 ft.",
-      "link": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss",
+      "title": "Japan Inc is betting big on India as China risks deepen",
+      "summary": "Japanese companies are doubling down on India amid a shrinking domestic market and rising risks in China.",
+      "link": "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "published": "Fri, 28 Aug 2026 17:47:00 GMT"
+      "published": "Mon, 31 Aug 2026 22:07:19 GMT"
+    },
+    {
+      "title": "Mortgage rates surge to the highest since June 2025 as new Middle East attacks push oil prices up",
+      "summary": "The expectation had been for falling rates this year, but the war with Iran and its resulting rise in oil prices upended that.",
+      "link": "https://www.cnbc.com/2026/08/31/mortgage-rates-surge-middle-east-attacks-oil.html",
+      "source": "CNBC",
+      "category": "Markets",
+      "published": "Mon, 31 Aug 2026 18:53:36 GMT"
+    },
+    {
+      "title": "Trump strikes new drug pricing deals with nine midsized drugmakers",
+      "summary": "The string of deals builds on the Trump administration's push to link the nation's drug prices to cheaper ones abroad.",
+      "link": "https://www.cnbc.com/2026/08/31/trump-drug-pricing-deals.html",
+      "source": "CNBC",
+      "category": "Markets",
+      "published": "Mon, 31 Aug 2026 20:20:24 GMT"
+    },
+    {
+      "title": "Manhattan's luxury rental market is booming, with units reaching $100,000 a month",
+      "summary": "New York City brokers said they've seen a surge in the number of wealthy renters, which is driving Manhattan rents to new records.",
+      "link": "https://www.cnbc.com/2026/08/31/manhattan-luxury-rentals-100000-month.html",
+      "source": "CNBC",
+      "category": "Markets",
+      "published": "Mon, 31 Aug 2026 11:27:20 GMT"
     },
     {
       "title": "The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently",
@@ -39,47 +63,23 @@
       "link": "https://www.cnbc.com/2026/08/30/trump-tariff-refunds-walmart-home-depot-target.html",
       "source": "CNBC",
       "category": "Markets",
-      "published": "Sun, 30 Aug 2026 12:00:02 GMT"
+      "published": "Mon, 31 Aug 2026 14:12:05 GMT"
     },
     {
-      "title": "Goodyear burning rubber and cash as turnaround plan continues",
-      "summary": "The tire maker has an ongoing turnaround plan as the company tries to restructure its business, refinance and pay down years of debt.",
-      "link": "https://www.cnbc.com/2026/08/29/goodyear-turnaround-cash-debt.html",
-      "source": "CNBC",
-      "category": "Markets",
-      "published": "Sat, 29 Aug 2026 13:56:58 GMT"
-    },
-    {
-      "title": "Imax says it's open to a sale. Why is no one buying?",
-      "summary": "Imax's stock and box office are breaking records, but studio conflicts and a soaring valuation complicate the list of who could bid for the company.",
-      "link": "https://www.cnbc.com/2026/08/28/imax-sale-potential-buyers.html",
-      "source": "CNBC",
-      "category": "Markets",
-      "published": "Fri, 28 Aug 2026 11:54:53 GMT"
-    },
-    {
-      "title": "How Taylor Farms became integral to America's food supply system",
-      "summary": "Taylor Farms and other suppliers have become larger and more integral to the U.S. food system, complicating foodborne illnesses such as cyclosporiasis.",
-      "link": "https://www.cnbc.com/2026/08/28/how-taylor-farms-became-integral-to-americas-food-supply-system.html",
-      "source": "CNBC",
-      "category": "Markets",
-      "published": "Fri, 28 Aug 2026 13:17:52 GMT"
-    },
-    {
-      "title": "Major fruit grower lays off nearly 1,000 workers",
+      "title": "Goldman Sachs sends blunt message on oil price, economy",
       "summary": "",
-      "link": "https://finance.yahoo.com/small-business/articles/major-fruit-grower-lays-off-010300694.html",
+      "link": "https://finance.yahoo.com/energy/articles/goldman-sachs-sends-blunt-message-003700417.html",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-08-30T01:03:00Z"
+      "published": "2026-08-31T00:37:00Z"
     },
     {
-      "title": "Dear Apple Stock Fans, Mark Your Calendars for September 9",
+      "title": "Everything I Learned from My Hot Chart Summer, and How My 21 Stocks Picks Have Performed.",
       "summary": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dear-apple-stock-fans-mark-133002349.html",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/everything-learned-hot-chart-summer-133002092.html",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-08-29T13:30:02Z"
+      "published": "2026-08-30T13:30:02Z"
     }
   ]
 }
