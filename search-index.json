@@ -1,5 +1,7 @@
 [
-  {"title":"Tax Calculator — AU, UK, US, Pakistan & UAE","url":"/","desc":"Free take-home pay calculators for five countries.","cat":"Tool"},
+  {"title":"NewFinera — Bookkeeping & Virtual CFO for SMEs","url":"/","desc":"Bookkeeping and Virtual CFO services for small and medium businesses.","cat":"Home"},
+  {"title":"Services — Bookkeeping & Virtual CFO","url":"/services.html","desc":"Bookkeeping, systems setup, and Virtual CFO services with indicative pricing.","cat":"Services"},
+  {"title":"Tax Calculator — AU, UK, US, Pakistan & UAE","url":"/calculator.html","desc":"Free take-home pay calculators for five countries.","cat":"Tool"},
   {"title":"Australian Salary Guides 2025–26","url":"/salary.html","desc":"Take-home pay by profession across 8 careers.","cat":"Salary"},
   {"title":"Electrician Salary Australia 2025–26","url":"/salary-electrician.html","desc":"State licensing, penalty rates, solar/EV specialisation pay.","cat":"Salary"},
   {"title":"Accountant Salary Australia 2025–26","url":"/salary-accountant.html","desc":"CA vs CPA, Big 4 vs mid-tier pay gaps.","cat":"Salary"},
@@ -18,7 +20,7 @@
   {"title":"Pakistan Income Tax 2024–25","url":"/blog/pakistan-tax-guide.html","desc":"FBR slabs, filer status & Section 149 withholding.","cat":"Blog · Pakistan"},
   {"title":"UAE Tax Guide 2026","url":"/blog/uae-tax-guide.html","desc":"Zero income tax, Corporate Tax & VAT explained.","cat":"Blog · UAE"},
   {"title":"AI in Personal Finance 2026","url":"/blog/ai-investing-guide.html","desc":"Robo-advisers, algorithmic trading & smart budgeting.","cat":"Blog · AI Finance"},
-  {"title":"About NewFinera","url":"/about.html","desc":"Our mission, values, and who's behind the platform.","cat":"Company"},
+  {"title":"About NewFinera","url":"/about.html","desc":"Meet Asima Shaharyar, ACCA — our mission, values, and free tools.","cat":"Company"},
   {"title":"Contact Us","url":"/contact.html","desc":"General enquiries, partnerships, and corrections.","cat":"Company"},
   {"title":"Privacy Policy","url":"/privacy.html","desc":"How we collect, use, and protect your data.","cat":"Legal"},
   {"title":"Terms of Service","url":"/terms.html","desc":"Rules for using our calculators and content.","cat":"Legal"},
