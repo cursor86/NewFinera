@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T23:49:54.280019+00:00",
+  "updated_at": "2026-09-05T23:39:53.237189+00:00",
   "articles": [
     {
       "title": "Stock up on food to prepare for extreme weather, minister says",
@@ -34,6 +34,14 @@
       "published": "Fri, 04 Sep 2026 07:19:06 GMT"
     },
     {
+      "title": "GM vs. Ford: U.S. defense, energy sectors add to automakers' century-old rivalry",
+      "summary": "General Motors and Ford are looking for new potential growth areas, including by seeking military contracts and getting into energy storage businesses.",
+      "link": "https://www.cnbc.com/2026/09/05/gm-ford-defense-energy.html",
+      "source": "CNBC",
+      "category": "Markets",
+      "published": "Sat, 05 Sep 2026 12:00:01 GMT"
+    },
+    {
       "title": "Longtime Fox News host Maria Bartiromo disputes reports of termination",
       "summary": "Maria Bartiromo, the longtime host of Fox News and Fox Business programming, has disputed reports she was fired from the cable TV networks.",
       "link": "https://www.cnbc.com/2026/09/04/maria-bartiromo-fox-news-termination.html",
@@ -58,28 +66,20 @@
       "published": "Fri, 04 Sep 2026 11:00:01 GMT"
     },
     {
-      "title": "Labor Day marks the start of 'fallcations' as wealthy travelers avoid summer crowds",
-      "summary": "Wealthy travelers are moving their typical summer getaways to autumn.",
-      "link": "https://www.cnbc.com/2026/09/04/fall-travel-wealthy-europe.html",
-      "source": "CNBC",
-      "category": "Markets",
-      "published": "Fri, 04 Sep 2026 17:31:44 GMT"
-    },
-    {
-      "title": "Saia\u2019s tonnage growth steps higher in August as comps ease",
+      "title": "IonQ vs. Rigetti Computing: Which Pure-Play Quantum Pioneer Has the Stronger Technology Advantage?",
       "summary": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/saia-tonnage-growth-steps-higher-164241632.html",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ionq-vs-rigetti-computing-pure-232000862.html",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-09-03T16:42:41Z"
+      "published": "2026-09-05T23:20:00Z"
     },
     {
-      "title": "Bitcoin Pumps as Fed Signals Rate Pause, $415 Million in Shorts Get Rekt",
+      "title": "Intel\u2019s AI Tailwinds Are Real. Mizuho Cut the Target Anyway.",
       "summary": "",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-pumps-fed-signals-rate-163817310.html",
+      "link": "https://finance.yahoo.com/technology/ai/articles/intel-ai-tailwinds-real-mizuho-225825483.html",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-09-03T16:38:17Z"
+      "published": "2026-09-05T22:58:25Z"
     }
   ]
 }
