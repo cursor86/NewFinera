@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-05T23:39:53.237189+00:00",
+  "updated_at": "2026-09-06T23:38:29.929146+00:00",
   "articles": [
+    {
+      "title": "The \u00a370 refund letter that isn't a scam",
+      "summary": "About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.",
+      "link": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "published": "Sun, 06 Sep 2026 23:16:05 GMT"
+    },
+    {
+      "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+      "summary": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
+      "link": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "published": "Sun, 06 Sep 2026 16:32:59 GMT"
+    },
     {
       "title": "Stock up on food to prepare for extreme weather, minister says",
       "summary": "Dame Angela Eagle warns the weather event could lead to extreme storms this winter.",
@@ -10,28 +26,12 @@
       "published": "Fri, 04 Sep 2026 10:40:23 GMT"
     },
     {
-      "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
-      "summary": "The president's remarks came as stronger-than-expected jobs figures added to growing expectations that rates could be increased.",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
+      "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
+      "summary": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
+      "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "published": "Fri, 04 Sep 2026 17:23:13 GMT"
-    },
-    {
-      "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
-      "summary": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
-      "link": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "published": "Fri, 04 Sep 2026 05:59:10 GMT"
-    },
-    {
-      "title": "Prosecco, cakes and beauty products - how to get birthday freebies and why there's a catch",
-      "summary": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "published": "Fri, 04 Sep 2026 07:19:06 GMT"
+      "published": "Sat, 05 Sep 2026 23:20:00 GMT"
     },
     {
       "title": "GM vs. Ford: U.S. defense, energy sectors add to automakers' century-old rivalry",
@@ -66,20 +66,20 @@
       "published": "Fri, 04 Sep 2026 11:00:01 GMT"
     },
     {
-      "title": "IonQ vs. Rigetti Computing: Which Pure-Play Quantum Pioneer Has the Stronger Technology Advantage?",
+      "title": "39-year-old ammunition manufacturer files Chapter 11 bankruptcy",
       "summary": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ionq-vs-rigetti-computing-pure-232000862.html",
+      "link": "https://finance.yahoo.com/small-business/articles/39-old-major-bullet-manufacturer-023300278.html",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-09-05T23:20:00Z"
+      "published": "2026-09-06T02:33:00Z"
     },
     {
-      "title": "Intel\u2019s AI Tailwinds Are Real. Mizuho Cut the Target Anyway.",
+      "title": "Workday (WDAY)\u2019s AI Push is Easing Investor Fears, but its Own Guidance Tells a More Cautious Story",
       "summary": "",
-      "link": "https://finance.yahoo.com/technology/ai/articles/intel-ai-tailwinds-real-mizuho-225825483.html",
+      "link": "https://finance.yahoo.com/technology/ai/articles/workday-wday-ai-push-easing-231129347.html",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-09-05T22:58:25Z"
+      "published": "2026-09-06T23:11:29Z"
     }
   ]
 }
