@@ -36,6 +36,15 @@
 .process-step .pn{font-family:var(--fh);font-size:1.4rem;color:var(--gold);margin-bottom:6px;}
 .process-step .pt{font-family:var(--fd);font-size:.78rem;color:var(--w80);font-weight:700;}
 @media(max-width:640px){.process-row{grid-template-columns:1fr 1fr;}}
+.price-table-wrap{overflow-x:auto;margin:24px 0;border:1px solid var(--brd);border-radius:14px;}
+.price-table{width:100%;border-collapse:collapse;min-width:560px;}
+.price-table th{font-family:var(--fd);font-size:.68rem;font-weight:700;text-transform:uppercase;letter-spacing:.1em;color:var(--gold);background:var(--gold-dim);text-align:left;padding:14px 20px;white-space:nowrap;}
+.price-table td{padding:16px 20px;border-top:1px solid var(--brd);font-size:.88rem;color:var(--w80);vertical-align:top;line-height:1.6;}
+.price-table tr:nth-child(odd) td{background:var(--card);}
+.price-table .pt-tier{font-family:var(--fd);font-weight:700;color:var(--w);white-space:nowrap;}
+.price-table .pt-vol{display:block;font-size:.75rem;color:var(--w25);font-weight:400;margin-top:2px;}
+.price-table .pt-cost{font-family:var(--fd);font-weight:700;color:var(--gold);white-space:nowrap;}
+.price-table-note{font-size:.78rem;color:var(--w25);margin-top:10px;}
 </style>
 </head>
 <body>
@@ -69,6 +78,34 @@
       <div><div class="spv">From $350/month</div><div class="spl">Ongoing monthly bookkeeping</div></div>
       <div><div class="spv">From $450</div><div class="spl">One-off clean-up / catch-up project</div></div>
     </div>
+
+    <h3>Pricing by business size</h3>
+    <p>Bookkeeping is priced on transaction volume and complexity, not on which platform or industry you're in — the tiers below give a general guide. Your actual quote is confirmed after the free consultation.</p>
+    <div class="price-table-wrap">
+      <table class="price-table">
+        <thead>
+          <tr><th>Business size</th><th>Typical monthly investment</th><th>What's included / ideal for</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><span class="pt-tier">Starter<span class="pt-vol">Up to ~50 transactions/month</span></span></td>
+            <td class="pt-cost">$350 – $600</td>
+            <td>Single bank account, monthly reconciliation, basic P&L. Ideal for sole traders and businesses just getting their books off spreadsheets.</td>
+          </tr>
+          <tr>
+            <td><span class="pt-tier">Growing<span class="pt-vol">~50 – 300 transactions/month</span></span></td>
+            <td class="pt-cost">$600 – $1,200</td>
+            <td>Multiple accounts, accounts payable/receivable tracking, payment reconciliation, monthly P&L and balance sheet.</td>
+          </tr>
+          <tr>
+            <td><span class="pt-tier">Established<span class="pt-vol">300+ transactions/month</span></span></td>
+            <td class="pt-cost">$1,200+</td>
+            <td>Multi-account or multi-entity reconciliation, more complex reporting needs, closer to full Virtual CFO bundle territory.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="price-table-note">Figures are indicative starting ranges only and scale with the number of transactions, accounts, and entities involved — not tied to any specific software or sales channel.</p>
 
     <h3>What's included</h3>
     <ul class="svc-includes">
