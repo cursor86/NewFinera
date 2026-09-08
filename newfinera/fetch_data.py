@@ -58,12 +58,10 @@ def fetch_fx():
         r.raise_for_status()
         rates = r.json().get("rates", {})
         # AUD/USD, GBP/USD, AED/USD: expressed as "how many USD per 1 unit"
-        # USD/PKR: expressed as "how many PKR per 1 USD" (conventional display)
         return {
             "AUD_USD": round(1 / rates["AUD"], 4) if "AUD" in rates else None,
             "GBP_USD": round(1 / rates["GBP"], 4) if "GBP" in rates else None,
             "AED_USD": round(1 / rates["AED"], 4) if "AED" in rates else None,
-            "USD_PKR": round(rates["PKR"], 2) if "PKR" in rates else None,
         }
     except Exception as e:
         print(f"[WARN] FX fetch failed: {e}")

@@ -69,7 +69,6 @@
     if (idx.FTSE100) items.push(tkItem(idx.FTSE100.change, "FTSE 100",  n(idx.FTSE100.price), pct(idx.FTSE100.change)));
     if (c.BTC)       items.push(tkItem(c.BTC.change,       "BTC/USD",   n(c.BTC.price),       pct(c.BTC.change)));
     if (c.ETH)       items.push(tkItem(c.ETH.change,       "ETH/USD",   n(c.ETH.price),       pct(c.ETH.change)));
-    if (fx.USD_PKR)  items.push(tkItem(-1,                 "PKR/USD",   n(fx.USD_PKR, 2),     ""));
     if (idx.Gold)    items.push(tkItem(idx.Gold.change,    "Gold",      "$" + n(idx.Gold.price) + "/oz", pct(idx.Gold.change)));
     if (idx.US10Y)   items.push(tkItem(0,                  "US 10Y",    idx.US10Y.price.toFixed(2) + "%", ""));
     if (cb.Fed)      items.push(tkItem(-1,                 "Fed Rate",  cb.Fed.rate,           cb.Fed.action));
