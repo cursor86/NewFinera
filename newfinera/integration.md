@@ -6,7 +6,7 @@
 GitHub Actions (daily 8 AM AEST)
   └── runs fetch_data.py
       ├── CoinGecko API     → BTC, ETH prices
-      ├── Open Exchange Rates → AUD/USD, GBP/USD, PKR, AED
+      ├── Open Exchange Rates → AUD/USD, GBP/USD, AED
       ├── Yahoo Finance      → S&P 500, NASDAQ, DOW, ASX 200, FTSE, Gold, US10Y
       └── Reuters/CNBC/BBC RSS → 10 live news articles
           ↓
