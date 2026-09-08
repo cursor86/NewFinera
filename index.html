@@ -80,9 +80,58 @@
   .h-cred-grid,.h-svc-grid,.h-tools-grid{grid-template-columns:1fr;}
   .h-about-band{flex-direction:column;text-align:center;}
 }
+
+.ticker{background:linear-gradient(90deg,#0A0F1E,#111827,#0A0F1E);border-bottom:1px solid var(--brd);height:38px;display:flex;align-items:center;overflow:hidden;}
+.tk-label{flex-shrink:0;font-family:var(--fd);font-weight:700;font-size:0.65rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--gold);padding:0 18px;border-right:1px solid var(--gold-brd);height:100%;display:flex;align-items:center;white-space:nowrap;background:rgba(212,168,67,0.06);}
+.tk-track{display:flex;align-items:center;animation:tk 60s linear infinite;white-space:nowrap;}
+.tk-track:hover{animation-play-state:paused;}
+.tki{display:inline-flex;align-items:center;gap:5px;font-family:var(--fd);font-size:0.72rem;font-weight:500;padding:0 22px;color:var(--w80);}
+.up{color:#4ADE80;font-size:0.7rem;}.dn{color:#F87171;font-size:0.7rem;}
+.tkd{width:2px;height:2px;border-radius:50%;background:var(--gold-brd);flex-shrink:0;}
+@keyframes tk{from{transform:translateX(0);}to{transform:translateX(-50%);}}
+@media(prefers-reduced-motion:reduce){.tk-track{animation:none;}}
 </style>
 </head>
 <body>
+<div class="ticker">
+  <div class="tk-label">📡 LIVE MARKETS</div>
+  <div style="overflow:hidden;flex:1;">
+    <div class="tk-track" id="ticker">
+      <span class="tki"><span class="up">▲</span> S&P 500 6,118 <span style="opacity:.45;font-size:.65rem;">+0.30%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> NASDAQ 20,140 <span style="opacity:.45;font-size:.65rem;">+0.42%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> DOW 43,280 <span style="opacity:.45;font-size:.65rem;">+0.18%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> AUD/USD 0.6402 <span style="opacity:.45;font-size:.65rem;">+0.21%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> ASX 200 8,312 <span style="opacity:.45;font-size:.65rem;">+0.38%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> GBP/USD 0.7923 <span style="opacity:.45;font-size:.65rem;">+0.09%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> FTSE 100 8,607 <span style="opacity:.45;font-size:.65rem;">+0.22%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> BTC/USD 107,240 <span style="opacity:.45;font-size:.65rem;">+1.44%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> ETH/USD 2,512 <span style="opacity:.45;font-size:.65rem;">+0.88%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="dn">▼</span> PKR/USD 280.50 <span style="opacity:.45;font-size:.65rem;">-0.06%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> Gold $3,322/oz <span style="opacity:.45;font-size:.65rem;">+0.31%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> US 10Y 4.35% <span style="opacity:.45;font-size:.65rem;">+0.02</span></span><span class="tkd"></span>
+      <span class="tki"><span class="dn">▼</span> Fed Rate 4.25–4.50% <span style="opacity:.45;font-size:.65rem;">Held</span></span><span class="tkd"></span>
+      <span class="tki"><span class="dn">▼</span> RBA Rate 4.10% <span style="opacity:.45;font-size:.65rem;">Held</span></span><span class="tkd"></span>
+      <span class="tki"><span class="dn">▼</span> AED/USD 0.2723 <span style="opacity:.45;font-size:.65rem;">Pegged</span></span><span class="tkd"></span>
+      <!-- duplicate for seamless CSS loop -->
+      <span class="tki"><span class="up">▲</span> S&P 500 6,118 <span style="opacity:.45;font-size:.65rem;">+0.30%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> NASDAQ 20,140 <span style="opacity:.45;font-size:.65rem;">+0.42%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> DOW 43,280 <span style="opacity:.45;font-size:.65rem;">+0.18%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> AUD/USD 0.6402 <span style="opacity:.45;font-size:.65rem;">+0.21%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> ASX 200 8,312 <span style="opacity:.45;font-size:.65rem;">+0.38%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> GBP/USD 0.7923 <span style="opacity:.45;font-size:.65rem;">+0.09%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> FTSE 100 8,607 <span style="opacity:.45;font-size:.65rem;">+0.22%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> BTC/USD 107,240 <span style="opacity:.45;font-size:.65rem;">+1.44%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> ETH/USD 2,512 <span style="opacity:.45;font-size:.65rem;">+0.88%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="dn">▼</span> PKR/USD 280.50 <span style="opacity:.45;font-size:.65rem;">-0.06%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> Gold $3,322/oz <span style="opacity:.45;font-size:.65rem;">+0.31%</span></span><span class="tkd"></span>
+      <span class="tki"><span class="up">▲</span> US 10Y 4.35% <span style="opacity:.45;font-size:.65rem;">+0.02</span></span><span class="tkd"></span>
+      <span class="tki"><span class="dn">▼</span> Fed Rate 4.25–4.50% <span style="opacity:.45;font-size:.65rem;">Held</span></span><span class="tkd"></span>
+      <span class="tki"><span class="dn">▼</span> RBA Rate 4.10% <span style="opacity:.45;font-size:.65rem;">Held</span></span><span class="tkd"></span>
+      <span class="tki"><span class="dn">▼</span> AED/USD 0.2723 <span style="opacity:.45;font-size:.65rem;">Pegged</span></span><span class="tkd"></span>
+    </div>
+  </div>
+</div>
+<div style="text-align:center;font-size:.68rem;color:var(--w25);padding:4px 0;background:#0A0F1E;" id="nf-data-updated"></div>
 <nav class="nav">
   <span class="nav-brand">New<span>Finera</span></span>
   <div class="nav-links">
@@ -188,6 +237,7 @@
   <strong>📚 Note:</strong> NewFinera provides bookkeeping and Virtual CFO / management accounts services. We are not currently a registered tax agent or BAS agent — tax return and BAS lodgment services are provided in partnership with a registered agent. NewFinera also publishes free general financial education content (tax calculators and guides); that content is general information only and not personalised advice. See our <a href="/terms.html">Terms of Service</a> and <a href="/disclaimer.html">Disclaimer</a> for details.
 </div>
 
+<script src="/js/live-data.js"></script>
 <script src="/js/search.js" defer></script>
 </body>
 </html>
