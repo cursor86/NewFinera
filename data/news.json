@@ -1,37 +1,61 @@
 {
-  "updated_at": "2026-09-10T23:51:32.042885+00:00",
+  "updated_at": "2026-09-11T23:59:23.785391+00:00",
   "articles": [
     {
-      "title": "I asked my husband to pay into my pension when we had a child - here's why",
-      "summary": "Molly and Taylor Haylett explain the changes to how they managed their finances when they started a family.",
-      "link": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
+      "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
+      "summary": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\".",
+      "link": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "published": "Thu, 10 Sep 2026 23:04:30 GMT"
+      "published": "Fri, 11 Sep 2026 15:37:25 GMT"
     },
     {
-      "title": "Are interest rates on the way up again?",
+      "title": "US prices remain high as fuel costs squeeze household budgets",
+      "summary": "Prices in the US rose 3.4% in the 12 months to August, according to the latest official report on inflation.",
+      "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "published": "Fri, 11 Sep 2026 14:22:42 GMT"
+    },
+    {
+      "title": "Interest rates could rise again across the world \u2013 here's why",
       "summary": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
       "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "published": "Thu, 10 Sep 2026 23:03:09 GMT"
+      "published": "Fri, 11 Sep 2026 13:35:29 GMT"
     },
     {
-      "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-      "summary": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+      "title": "AI boom helps drive surprise UK growth in July",
+      "summary": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
+      "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "published": "Thu, 10 Sep 2026 17:38:31 GMT"
+      "published": "Fri, 11 Sep 2026 10:17:28 GMT"
     },
     {
-      "title": "Alstom to build new battery-electric train fleet",
-      "summary": "The government says the work will support thousands of jobs across the UK.",
-      "link": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "published": "Thu, 10 Sep 2026 21:00:33 GMT"
+      "title": "Record U.S. cyclosporiasis outbreak is over, CDC says",
+      "summary": "The largest outbreak, linked to shredded iceberg lettuce from Taylor Farms, sickened more than 12,000 people.",
+      "link": "https://www.cnbc.com/2026/09/11/cdc-record-cyclosporiasis-outbreak-over.html",
+      "source": "CNBC",
+      "category": "Markets",
+      "published": "Fri, 11 Sep 2026 15:36:45 GMT"
+    },
+    {
+      "title": "25 years after 9/11, the U.S. starts rolling back travel restrictions, from liquids to gate access",
+      "summary": "Years after 9/11, the U.S. government is walking back some security screenings as threats and technology evolve.",
+      "link": "https://www.cnbc.com/2026/09/11/9/11-anniversary-air-travel.html",
+      "source": "CNBC",
+      "category": "Markets",
+      "published": "Fri, 11 Sep 2026 11:00:01 GMT"
+    },
+    {
+      "title": "Wealthy investors are pouring billions into this new tax strategy despite risks",
+      "summary": "Total assets invested in so-called tax-aware long-short strategies \u2014 or TALS \u2014 have surged to more than $170 billion, according to Tax Alpha Insider.",
+      "link": "https://www.cnbc.com/2026/09/11/wealthy-investors-tax-aware-long-short-strategies.html",
+      "source": "CNBC",
+      "category": "Markets",
+      "published": "Fri, 11 Sep 2026 15:54:22 GMT"
     },
     {
       "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
@@ -39,47 +63,23 @@
       "link": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
       "source": "CNBC",
       "category": "Markets",
-      "published": "Thu, 10 Sep 2026 19:02:58 GMT"
+      "published": "Fri, 11 Sep 2026 16:06:31 GMT"
     },
     {
-      "title": "Ford announces $1 billion investment at Kentucky plant following DOT criticism on China",
-      "summary": "Ford Motor on Thursday announced a $1 billion investment to build a new paint shop at its crucial truck plant in Kentucky.",
-      "link": "https://www.cnbc.com/2026/09/10/ford-1-billion-investment-kentucky-plant.html",
-      "source": "CNBC",
-      "category": "Markets",
-      "published": "Thu, 10 Sep 2026 20:48:14 GMT"
-    },
-    {
-      "title": "Kimmel says interview with Senate candidate Talarico won't air on ABC amid FCC threats",
-      "summary": "ABC has come under increased pressure from the FCC, and the Trump administration has raised concerns about equal air time for political candidates.",
-      "link": "https://www.cnbc.com/2026/09/10/abc-kimmel-talarico-fcc.html",
-      "source": "CNBC",
-      "category": "Markets",
-      "published": "Thu, 10 Sep 2026 15:45:09 GMT"
-    },
-    {
-      "title": "NFL Commissioner Roger Goodell says league could rework TV packages in next media deal",
-      "summary": "The NFL has an opt-out clause at the end of the 2029-30 season in which it can resell and redistribute its media rights.",
-      "link": "https://www.cnbc.com/2026/09/10/nfl-roger-goodell-tv-packages-deal.html",
-      "source": "CNBC",
-      "category": "Markets",
-      "published": "Thu, 10 Sep 2026 20:44:33 GMT"
-    },
-    {
-      "title": "Fidelity says your 401(k) rollover check may come up short",
+      "title": "Popular women's clothing chain closes 177 stores",
       "summary": "",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/fidelity-says-401-k-rollover-161700882.html",
+      "link": "https://finance.yahoo.com/small-business/articles/popular-womens-clothing-chain-closes-231700943.html",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-09-09T16:17:00Z"
+      "published": "2026-09-10T23:17:00Z"
     },
     {
-      "title": "Bulls Are Working to Forge Bottoms in Cattle and Hog Prices",
+      "title": "HIVE brings in enterprise veteran to scale BUZZ HPC's AI cloud business",
       "summary": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/bulls-working-forge-bottoms-cattle-160844046.html",
+      "link": "https://finance.yahoo.com/technology/ai/articles/hive-brings-enterprise-veteran-scale-233612805.html",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-09-09T16:08:44Z"
+      "published": "2026-09-10T23:36:12Z"
     }
   ]
 }
