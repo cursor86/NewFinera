@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-09-11T23:59:23.785391+00:00",
+  "updated_at": "2026-09-12T23:52:06.660314+00:00",
   "articles": [
+    {
+      "title": "US prices remain high as fuel costs squeeze household budgets",
+      "summary": "Prices in the US rose 3.4% in the 12 months to August, according to the latest official report on inflation.",
+      "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "published": "Fri, 11 Sep 2026 14:22:42 GMT"
+    },
     {
       "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
       "summary": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\".",
@@ -10,12 +18,12 @@
       "published": "Fri, 11 Sep 2026 15:37:25 GMT"
     },
     {
-      "title": "US prices remain high as fuel costs squeeze household budgets",
-      "summary": "Prices in the US rose 3.4% in the 12 months to August, according to the latest official report on inflation.",
-      "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
+      "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
+      "summary": "Consumer group Which? has called the sale of jack mackerel, a cheaper, less nutritious species of fish, an example of \"skimpflation\".",
+      "link": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "published": "Fri, 11 Sep 2026 14:22:42 GMT"
+      "published": "Sat, 12 Sep 2026 20:37:29 GMT"
     },
     {
       "title": "Interest rates could rise again across the world \u2013 here's why",
@@ -26,12 +34,12 @@
       "published": "Fri, 11 Sep 2026 13:35:29 GMT"
     },
     {
-      "title": "AI boom helps drive surprise UK growth in July",
-      "summary": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
-      "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "published": "Fri, 11 Sep 2026 10:17:28 GMT"
+      "title": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties",
+      "summary": "Most battery cells currently rely on raw materials from China. GM is seeking to establish domestic supply chains both for EVs and energy storage.",
+      "link": "https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html",
+      "source": "CNBC",
+      "category": "Markets",
+      "published": "Sat, 12 Sep 2026 12:00:01 GMT"
     },
     {
       "title": "Record U.S. cyclosporiasis outbreak is over, CDC says",
@@ -58,28 +66,20 @@
       "published": "Fri, 11 Sep 2026 15:54:22 GMT"
     },
     {
-      "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
-      "summary": "OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling and pitchbook tasks traditionally handled by junior bankers.",
-      "link": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
-      "source": "CNBC",
-      "category": "Markets",
-      "published": "Fri, 11 Sep 2026 16:06:31 GMT"
-    },
-    {
-      "title": "Popular women's clothing chain closes 177 stores",
+      "title": "172-year-old bank sees 400% upside for 'federal bank' token",
       "summary": "",
-      "link": "https://finance.yahoo.com/small-business/articles/popular-womens-clothing-chain-closes-231700943.html",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/172-old-bank-sees-400-173349444.html",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-09-10T23:17:00Z"
+      "published": "2026-09-11T17:33:49Z"
     },
     {
-      "title": "HIVE brings in enterprise veteran to scale BUZZ HPC's AI cloud business",
+      "title": "AI Agents Create Their Own Monitoring Problem. Datadog and Dynatrace Are Racing to Own It",
       "summary": "",
-      "link": "https://finance.yahoo.com/technology/ai/articles/hive-brings-enterprise-veteran-scale-233612805.html",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-agents-create-own-monitoring-225626156.html",
       "source": "Yahoo Finance",
       "category": "Finance",
-      "published": "2026-09-10T23:36:12Z"
+      "published": "2026-09-12T22:56:26Z"
     }
   ]
 }
